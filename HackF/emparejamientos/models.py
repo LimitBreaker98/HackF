@@ -13,4 +13,4 @@ class Emparejamiento(models.Model):
 
 
   def __str__(self):
-    return "Un match con un {}% entre el {} y {} ha sido encontrado: \n Las razones son:{}". format(favorabilidad * 100, campesino, empresa, razones);
+    return "Un match con un {}% entre el {} y {} ha sido encontrado: \n Las razones son:{}". format(favorabilidad * 100, campesino, empresa, razones)
