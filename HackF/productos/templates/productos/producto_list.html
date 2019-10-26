@@ -1,0 +1,33 @@
+<h1>Productos</h1>
+
+<table border="1">
+<thead>
+    <tr>
+    <th>Nombre</th>
+    <th>Descripción</th>
+    <th>Precio</th>
+    <th>Ubicación</th>
+    <th>Unidad de medida</th>
+    <th>Tipo de producto</th>
+    <th>Fecha</th>
+    </tr>
+</thead>
+<tbody>
+    {% for producto in producto_list %}
+    <tr>
+    <td>{{ producto.nombre }}</td>
+    <td>{{ producto.descripcion }}</td>
+    <td>{{ producto.precio }}</td>
+    <td>{{ producto.ubicacion }}</td>
+    <td>{{ producto.unidad_medida }}</td>
+    <td>{{ producto.tipo }}</td>
+    <td>{{ producto.fecha }}</td>
+    <td><a href="{% url "purchase_view" purchase.id %}">view</a></td>
+    <td><a href="{% url "purchase_edit" purchase.id %}">edit</a></td>
+    <td><a href="{% url "purchase_delete" purchase.id %}">delete</a></td>
+    </tr>
+    {% endfor %}
+</tbody>
+</table>
+
+<a href="{% url "producto_new" %}">New</a>
