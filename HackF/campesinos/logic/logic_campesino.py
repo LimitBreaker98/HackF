@@ -8,4 +8,7 @@ def create_campesino(form):
   producto = form.save()
   producto.save()
   return ()
+
+def get_campesino_by_name(name):
+  return Campesino.objects.get(nombre = name)
   

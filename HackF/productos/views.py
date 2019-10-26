@@ -6,7 +6,7 @@ from django.contrib import messages
 
 from .forms import ProductoForm
 from productos.models import Producto
-from .logic.logic_producto import get_productos, create_producto
+from .logic.logic_producto import get_productos, create_producto, get_productos_campesino
 
 # Create your views here.
 
@@ -33,3 +33,10 @@ def producto_create(request):
     'form': form,
   }
   return render(request, 'productos/producto_form.html', context)
+
+def productos_de_campesino(request, name):
+  productos = get_productos_campesino(name)
+  context = {
+    'producto_list': productos
+  }
+  return render(request, 'productos/producto_list.html', context)
