@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'campesinos.apps.CampesinosConfig',
-    'productos.apps.ProductosConfig'
+    'productos.apps.ProductosConfig',
+    'ofertas.apps.'
 
 ]
 
