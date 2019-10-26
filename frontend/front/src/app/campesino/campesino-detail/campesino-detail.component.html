@@ -1,1 +1,43 @@
-<p>campesino-detail works!</p>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+        <a class="navbar-brand" href="/campesino">Agro Match</a>
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+            <li class="nav-item active">
+                <a class="nav-link" href="/campesino">Home <span> </span></a>
+            </li>
+            <!-- <li class="nav-item active">
+                <a class="nav-link" href="/campesino">Products <span> </span></a>
+            </li> -->
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+    </div>
+</nav>
+
+<div class="row">
+    <div class="col">
+        <h1 class="text-center mt-3">Perfil Campesino</h1>
+        <div class="card" style="width: 18rem;">
+            <img src="../../../assets/images/farmer.png" class="card-img-top" alt="Farmer">
+            <div class="card-body">
+                <p class="card-text text-center">Perfil</p>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <h1 class="text-center mt-3">Estadísticas</h1>
+        <google-chart #chart [title]="title1" [type]="type1" [data]="data1" [columnNames]="columnNames1" [options]="options1" [width]="width1" [height]="height1">
+        </google-chart>
+
+        <google-chart #chart [title]="title2" [type]="type2" [data]="data2" [columnNames]="columnNames2" [options]="options2" [width]="width2" [height]="height2">
+        </google-chart>
+
+        <div id="chart_div" style="width: 100%; height: 600px;"></div>
+
+    </div>
+</div>

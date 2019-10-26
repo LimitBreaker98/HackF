@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import {HttpClient} from '@angular/common/http';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-root',
@@ -9,12 +10,16 @@ import {HttpClient} from '@angular/common/http';
 export class AppComponent {
 
   readonly ROOT_URL = 'https://jsonplaceholder.typicode.com';
-  posts:any;
 
-  constructor(private http: HttpClient){}
+  constructor(private http: HttpClient, private router: Router){}
 
-  getPosts(){
-    this.posts = this.http.get(this.ROOT_URL + '/posts')
-  }
   title = 'front';
+
+  isHomeRoute() {
+    return this.router.url === '/';
+  }
+
+  ngOnInit(){
+  }
+  
 }

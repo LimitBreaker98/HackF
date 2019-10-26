@@ -1,4 +1,5 @@
-<h1>Angular HTTP Basics</h1>
+<!-- <h1>
+    Angular HTTP Basics</h1>
 
 <button (click)="getPosts()">Get Posts</button>
 <div *ngFor="let post of posts | async">
@@ -14,7 +15,43 @@
     <a routerLink="/campesino">
         Campesino
     </a>
+</nav> -->
+<nav>
+    <div class="container w-100 h-100" *ngIf="isHomeRoute()">
+        <!-- <div class="row">
+            <h1>Agro Match</h1>
+        </div> -->
+        <div class="profiles row d-flex justify-content-around align-self-center w-100 h-100">
+            <a routerLink="/campesino">
+                <div class="card">
+                    <img src="../assets/images/person.png" class="card-img-top" alt="Person">
+                    <div class="card-body">
+                        <h4 class="card-title text-center">Campesino</h4>
+                    </div>
+                </div>
+            </a>
+            <a routerLink="/financiero">
+                <div class="card ">
+                    <img src="../assets/images/person.png" class="card-img-top" alt="Person">
+                    <div class="card-body">
+                        <h4 class="card-title text-center">Financiero</h4>
+                    </div>
+                </div>
+            </a>
+            <a routerLink="/comprador">
+                <div class="card">
+                    <img src="../assets/images/person.png" class="card-img-top" alt="Person">
+                    <div class="card-body">
+                        <h4 class="card-title text-center">Comprador</h4>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
 </nav>
+
+<google-chart #chart [title]="title" [type]="type" [data]="data" [columnNames]="columnNames" [options]="options" [width]="width" [height]="height">
+</google-chart>
 
 <router-outlet></router-outlet>
 <!-- Router views goes here -->
