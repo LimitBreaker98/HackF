@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'campesinos.apps.CampesinosConfig',
     'productos.apps.ProductosConfig',
     'ofertas.apps.OfertasConfig',
-    'empresas.apps.EmpresasConfig'
+    'empresas.apps.EmpresasConfig',
+    'emparejamientos.apps.EmparejamientosConfig'
 
 ]
 
