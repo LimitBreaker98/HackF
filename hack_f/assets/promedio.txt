@@ -1,0 +1,2817 @@
+Aceite girasol,2019-01-01,8024.25
+Aceite girasol,2019-02-01,7932.0
+Aceite girasol,2019-03-01,7704.0
+Aceite girasol,2019-04-01,7697.428571428572
+Aceite girasol,2019-05-01,7794.571428571428
+Aceite girasol,2019-06-01,7950.857142857143
+Aceite girasol,2019-07-01,7891.142857142857
+Aceite girasol,2019-08-01,8038.375
+Aceite vegetal mezcla,2019-01-01,4788.6875
+Aceite vegetal mezcla,2019-02-01,4795.032258064516
+Aceite vegetal mezcla,2019-03-01,4807.387096774193
+Aceite vegetal mezcla,2019-04-01,4827.266666666666
+Aceite vegetal mezcla,2019-05-01,4876.5161290322585
+Aceite vegetal mezcla,2019-06-01,4921.71875
+Aceite vegetal mezcla,2019-07-01,4903.967741935484
+Aceite vegetal mezcla,2019-08-01,4927.40625
+Acelga,2019-01-01,1459.8235294117646
+Acelga,2019-02-01,1377.235294117647
+Acelga,2019-03-01,1310.0588235294117
+Acelga,2019-04-01,1300.8823529411766
+Acelga,2019-05-01,1309.1764705882354
+Acelga,2019-06-01,1368.8823529411766
+Acelga,2019-07-01,1377.5294117647059
+Acelga,2019-08-01,1378.6470588235295
+Aguacate Hass,2019-01-01,2751.181818181818
+Aguacate Hass,2019-02-01,2753.8333333333335
+Aguacate Hass,2019-03-01,3249.3846153846152
+Aguacate Hass,2019-04-01,3519.0833333333335
+Aguacate Hass,2019-05-01,3452.3333333333335
+Aguacate Hass,2019-06-01,3409.5454545454545
+Aguacate Hass,2019-07-01,3240.6666666666665
+Aguacate Hass,2019-08-01,3620.5
+Aguacate común,2019-01-01,3340.0
+Aguacate común,2019-02-01,2892.75
+Aguacate común,2019-03-01,4328.3
+Aguacate común,2019-04-01,3967.3125
+Aguacate común,2019-05-01,3011.625
+Aguacate común,2019-06-01,2704.470588235294
+Aguacate común,2019-07-01,2360.6153846153848
+Aguacate común,2019-08-01,2358.375
+Aguacate papelillo,2019-01-01,3546.205882352941
+Aguacate papelillo,2019-02-01,3855.676470588235
+Aguacate papelillo,2019-03-01,4858.606060606061
+Aguacate papelillo,2019-04-01,5761.548387096775
+Aguacate papelillo,2019-05-01,4478.862068965517
+Aguacate papelillo,2019-06-01,3371.1176470588234
+Aguacate papelillo,2019-07-01,2878.735294117647
+Aguacate papelillo,2019-08-01,3112.5882352941176
+Ahuyama,2019-01-01,927.3939393939394
+Ahuyama,2019-02-01,923.6875
+Ahuyama,2019-03-01,877.0588235294117
+Ahuyama,2019-04-01,806.9411764705883
+Ahuyama,2019-05-01,800.1176470588235
+Ahuyama,2019-06-01,775.8823529411765
+Ahuyama,2019-07-01,778.0588235294117
+Ahuyama,2019-08-01,729.8823529411765
+Ahuyamín (Sakata),2019-01-01,871.5
+Ahuyamín (Sakata),2019-02-01,949.9166666666666
+Ahuyamín (Sakata),2019-03-01,1169.3333333333333
+Ahuyamín (Sakata),2019-04-01,1168.8333333333333
+Ahuyamín (Sakata),2019-05-01,1126.3333333333333
+Ahuyamín (Sakata),2019-06-01,983.6666666666666
+Ahuyamín (Sakata),2019-07-01,939.0
+Ahuyamín (Sakata),2019-08-01,900.1666666666666
+Ajo,2019-01-01,5153.1875
+Ajo,2019-02-01,6569.1875
+Ajo,2019-03-01,5894.4375
+Ajo,2019-04-01,5246.25
+Ajo,2019-05-01,5011.4375
+Ajo,2019-06-01,6242.6875
+Ajo,2019-07-01,6398.0
+Ajo,2019-08-01,4680.5625
+Ajo importado,2019-01-01,3672.5384615384614
+Ajo importado,2019-02-01,3939.4615384615386
+Ajo importado,2019-03-01,5158.423076923077
+Ajo importado,2019-04-01,5750.538461538462
+Ajo importado,2019-05-01,5986.346153846154
+Ajo importado,2019-06-01,7552.153846153846
+Ajo importado,2019-07-01,9017.346153846154
+Ajo importado,2019-08-01,7618.346153846154
+Ají topito dulce,2019-01-01,3983.0
+Ají topito dulce,2019-02-01,3564.8
+Ají topito dulce,2019-03-01,2770.4
+Ají topito dulce,2019-04-01,3370.2
+Ají topito dulce,2019-05-01,3647.8
+Ají topito dulce,2019-06-01,2262.0
+Ají topito dulce,2019-07-01,2676.6
+Ají topito dulce,2019-08-01,4210.0
+Alas de pollo con costillar,2019-01-01,4432.894736842105
+Alas de pollo con costillar,2019-02-01,4458.684210526316
+Alas de pollo con costillar,2019-03-01,4478.0526315789475
+Alas de pollo con costillar,2019-04-01,4521.789473684211
+Alas de pollo con costillar,2019-05-01,4547.9047619047615
+Alas de pollo con costillar,2019-06-01,4487.238095238095
+Alas de pollo con costillar,2019-07-01,4539.238095238095
+Alas de pollo con costillar,2019-08-01,4554.0
+Alas de pollo sin costillar,2019-01-01,6118.545454545455
+Alas de pollo sin costillar,2019-02-01,6178.3
+Alas de pollo sin costillar,2019-03-01,6229.4
+Alas de pollo sin costillar,2019-04-01,6200.5
+Alas de pollo sin costillar,2019-05-01,6121.4
+Alas de pollo sin costillar,2019-06-01,6067.5
+Alas de pollo sin costillar,2019-07-01,6129.8
+Alas de pollo sin costillar,2019-08-01,6233.1
+Almejas con concha,2019-01-01,7835.0
+Almejas con concha,2019-02-01,7936.0
+Almejas con concha,2019-03-01,8127.666666666667
+Almejas con concha,2019-04-01,8069.0
+Almejas con concha,2019-05-01,7961.333333333333
+Almejas con concha,2019-06-01,7727.0
+Almejas con concha,2019-07-01,7808.666666666667
+Almejas con concha,2019-08-01,7781.666666666667
+Almejas sin concha,2019-01-01,14994.25
+Almejas sin concha,2019-02-01,15134.75
+Almejas sin concha,2019-03-01,15364.5
+Almejas sin concha,2019-04-01,15869.75
+Almejas sin concha,2019-05-01,16232.5
+Almejas sin concha,2019-06-01,16268.0
+Almejas sin concha,2019-07-01,16198.0
+Almejas sin concha,2019-08-01,15829.0
+Apio,2019-01-01,1417.96875
+Apio,2019-02-01,1159.3636363636363
+Apio,2019-03-01,1152.7272727272727
+Apio,2019-04-01,1136.7878787878788
+Apio,2019-05-01,1093.4242424242425
+Apio,2019-06-01,1107.3030303030303
+Apio,2019-07-01,1705.7272727272727
+Apio,2019-08-01,1570.1818181818182
+Arracacha amarilla,2019-01-01,1671.8095238095239
+Arracacha amarilla,2019-02-01,1622.5714285714287
+Arracacha amarilla,2019-03-01,1586.3809523809523
+Arracacha amarilla,2019-04-01,1667.2380952380952
+Arracacha amarilla,2019-05-01,1683.4761904761904
+Arracacha amarilla,2019-06-01,1658.3809523809523
+Arracacha amarilla,2019-07-01,1766.2380952380952
+Arracacha amarilla,2019-08-01,1908.8095238095239
+Arracacha blanca,2019-01-01,1528.3636363636363
+Arracacha blanca,2019-02-01,1521.8181818181818
+Arracacha blanca,2019-03-01,1527.4545454545455
+Arracacha blanca,2019-04-01,1630.090909090909
+Arracacha blanca,2019-05-01,1547.2727272727273
+Arracacha blanca,2019-06-01,1417.2727272727273
+Arracacha blanca,2019-07-01,1419.6363636363637
+Arracacha blanca,2019-08-01,1489.1818181818182
+Arroz blanco importado,2019-01-01,2384.0
+Arroz blanco importado,2019-02-01,2376.0
+Arroz blanco importado,2019-03-01,2366.0
+Arroz blanco importado,2019-04-01,2378.0
+Arroz blanco importado,2019-05-01,2439.0
+Arroz blanco importado,2019-07-01,2628.0
+Arroz de primera,2019-01-01,2305.4242424242425
+Arroz de primera,2019-02-01,2337.6969696969695
+Arroz de primera,2019-03-01,2364.151515151515
+Arroz de primera,2019-04-01,2384.4848484848485
+Arroz de primera,2019-05-01,2408.6060606060605
+Arroz de primera,2019-06-01,2456.3636363636365
+Arroz de primera,2019-07-01,2567.3030303030305
+Arroz de primera,2019-08-01,2595.121212121212
+Arroz de segunda,2019-01-01,2046.4285714285713
+Arroz de segunda,2019-02-01,2044.6666666666667
+Arroz de segunda,2019-03-01,2119.6
+Arroz de segunda,2019-04-01,2149.6
+Arroz de segunda,2019-05-01,2205.5
+Arroz de segunda,2019-06-01,2259.2
+Arroz de segunda,2019-07-01,2303.8333333333335
+Arroz de segunda,2019-08-01,2324.8333333333335
+Arroz excelso,2019-01-01,2376.0
+Arroz excelso,2019-02-01,2396.8888888888887
+Arroz excelso,2019-03-01,2429.6666666666665
+Arroz excelso,2019-04-01,2447.222222222222
+Arroz excelso,2019-05-01,2460.6666666666665
+Arroz excelso,2019-06-01,2517.4444444444443
+Arroz excelso,2019-07-01,2632.8888888888887
+Arroz excelso,2019-08-01,2699.0
+Arroz sopa cristal,2019-01-01,1379.6666666666667
+Arroz sopa cristal,2019-02-01,1433.0
+Arroz sopa cristal,2019-03-01,1450.3333333333333
+Arroz sopa cristal,2019-04-01,1451.6666666666667
+Arroz sopa cristal,2019-05-01,1442.3333333333333
+Arroz sopa cristal,2019-06-01,1551.6666666666667
+Arroz sopa cristal,2019-07-01,1654.6666666666667
+Arroz sopa cristal,2019-08-01,1646.0
+Arveja amarilla seca importada,2019-01-01,1850.0
+Arveja amarilla seca importada,2019-02-01,1923.8
+Arveja amarilla seca importada,2019-03-01,1990.4
+Arveja amarilla seca importada,2019-04-01,2041.4
+Arveja amarilla seca importada,2019-05-01,2094.4
+Arveja amarilla seca importada,2019-06-01,2088.75
+Arveja amarilla seca importada,2019-07-01,2032.5
+Arveja amarilla seca importada,2019-08-01,2097.75
+Arveja enlatada,2019-01-01,7295.2
+Arveja enlatada,2019-02-01,7152.2
+Arveja enlatada,2019-03-01,7152.8
+Arveja enlatada,2019-04-01,7234.8
+Arveja enlatada,2019-05-01,7300.2
+Arveja enlatada,2019-06-01,7562.0
+Arveja enlatada,2019-07-01,7482.2
+Arveja enlatada,2019-08-01,7585.6
+Arveja verde en vaina,2019-01-01,3877.3714285714286
+Arveja verde en vaina,2019-02-01,3431.2285714285713
+Arveja verde en vaina,2019-03-01,3389.057142857143
+Arveja verde en vaina,2019-04-01,3387.114285714286
+Arveja verde en vaina,2019-05-01,3012.9714285714285
+Arveja verde en vaina,2019-06-01,3313.9714285714285
+Arveja verde en vaina,2019-07-01,3402.457142857143
+Arveja verde en vaina,2019-08-01,2801.885714285714
+Arveja verde en vaina pastusa,2019-01-01,3941.25
+Arveja verde en vaina pastusa,2019-02-01,3220.25
+Arveja verde en vaina pastusa,2019-03-01,3022.4285714285716
+Arveja verde en vaina pastusa,2019-04-01,2650.1111111111113
+Arveja verde en vaina pastusa,2019-05-01,2333.1111111111113
+Arveja verde en vaina pastusa,2019-06-01,2843.3333333333335
+Arveja verde en vaina pastusa,2019-07-01,2919.222222222222
+Arveja verde en vaina pastusa,2019-08-01,2595.222222222222
+Arveja verde seca importada,2019-01-01,2148.6428571428573
+Arveja verde seca importada,2019-02-01,2168.3928571428573
+Arveja verde seca importada,2019-03-01,2218.1785714285716
+Arveja verde seca importada,2019-04-01,2282.535714285714
+Arveja verde seca importada,2019-05-01,2309.6071428571427
+Arveja verde seca importada,2019-06-01,2339.3571428571427
+Arveja verde seca importada,2019-07-01,2340.9285714285716
+Arveja verde seca importada,2019-08-01,2353.75
+Avena en hojuelas,2019-01-01,7135.2307692307695
+Avena en hojuelas,2019-02-01,7147.88
+Avena en hojuelas,2019-03-01,7134.32
+Avena en hojuelas,2019-04-01,7133.56
+Avena en hojuelas,2019-05-01,7153.6
+Avena en hojuelas,2019-06-01,7269.04
+Avena en hojuelas,2019-07-01,7286.92
+Avena en hojuelas,2019-08-01,7299.4
+Avena molida,2019-01-01,7341.923076923077
+Avena molida,2019-02-01,7376.833333333333
+Avena molida,2019-03-01,7384.083333333333
+Avena molida,2019-04-01,7361.916666666667
+Avena molida,2019-05-01,7292.3125
+Avena molida,2019-06-01,7365.823529411765
+Avena molida,2019-07-01,7398.294117647059
+Avena molida,2019-08-01,7434.411764705882
+Azúcar morena,2019-01-01,2313.1666666666665
+Azúcar morena,2019-02-01,2271.8333333333335
+Azúcar morena,2019-03-01,2252.3333333333335
+Azúcar morena,2019-04-01,2294.8333333333335
+Azúcar morena,2019-05-01,2582.3076923076924
+Azúcar morena,2019-06-01,2724.923076923077
+Azúcar morena,2019-07-01,2743.6153846153848
+Azúcar morena,2019-08-01,2735.846153846154
+Azúcar refinada,2019-01-01,2218.529411764706
+Azúcar refinada,2019-02-01,2172.8823529411766
+Azúcar refinada,2019-03-01,2179.1176470588234
+Azúcar refinada,2019-04-01,2283.5882352941176
+Azúcar refinada,2019-05-01,2541.176470588235
+Azúcar refinada,2019-06-01,2588.733333333333
+Azúcar refinada,2019-07-01,2613.5333333333333
+Azúcar refinada,2019-08-01,2608.133333333333
+Azúcar sulfitada,2019-01-01,1939.25
+Azúcar sulfitada,2019-02-01,1896.1666666666667
+Azúcar sulfitada,2019-03-01,1889.1666666666667
+Azúcar sulfitada,2019-04-01,2062.9583333333335
+Azúcar sulfitada,2019-05-01,2355.7083333333335
+Azúcar sulfitada,2019-06-01,2312.125
+Azúcar sulfitada,2019-07-01,2261.782608695652
+Azúcar sulfitada,2019-08-01,2235.7083333333335
+Badea,2019-01-01,1430.5
+Badea,2019-02-01,1550.0
+Badea,2019-03-01,1374.5
+Badea,2019-04-01,1619.0
+Badea,2019-05-01,1642.0
+Badea,2019-06-01,1409.5
+Badea,2019-07-01,1444.5
+Badea,2019-08-01,1585.5
+Bagre rayado en postas congelado,2019-01-01,19835.0
+Bagre rayado en postas congelado,2019-02-01,19939.666666666668
+Bagre rayado en postas congelado,2019-03-01,20138.833333333332
+Bagre rayado en postas congelado,2019-04-01,20718.833333333332
+Bagre rayado en postas congelado,2019-05-01,20740.0
+Bagre rayado en postas congelado,2019-06-01,20479.166666666668
+Bagre rayado en postas congelado,2019-07-01,20325.0
+Bagre rayado en postas congelado,2019-08-01,20409.5
+Bagre rayado entero congelado,2019-01-01,15779.5
+Bagre rayado entero congelado,2019-02-01,16086.5
+Bagre rayado entero congelado,2019-03-01,16858.5
+Bagre rayado entero congelado,2019-04-01,16946.11111111111
+Bagre rayado entero congelado,2019-05-01,17180.625
+Bagre rayado entero congelado,2019-06-01,17835.5
+Bagre rayado entero congelado,2019-07-01,17650.777777777777
+Bagre rayado entero congelado,2019-08-01,17551.88888888889
+Bagre rayado entero fresco,2019-01-01,11280.363636363636
+Bagre rayado entero fresco,2019-02-01,11502.2
+Bagre rayado entero fresco,2019-03-01,12599.5
+Bagre rayado entero fresco,2019-04-01,13625.7
+Bagre rayado entero fresco,2019-05-01,13835.555555555555
+Bagre rayado entero fresco,2019-06-01,14161.857142857143
+Bagre rayado entero fresco,2019-07-01,13605.545454545454
+Bagre rayado entero fresco,2019-08-01,13431.2
+Banano Urabá,2019-01-01,992.2666666666667
+Banano Urabá,2019-02-01,1049.3076923076924
+Banano Urabá,2019-03-01,991.0
+Banano Urabá,2019-04-01,981.5
+Banano Urabá,2019-05-01,1036.357142857143
+Banano Urabá,2019-06-01,1167.5333333333333
+Banano Urabá,2019-07-01,1214.8666666666666
+Banano Urabá,2019-08-01,1121.4
+Banano bocadillo,2019-01-01,1188.6
+Banano bocadillo,2019-02-01,1143.2
+Banano bocadillo,2019-03-01,1146.8
+Banano bocadillo,2019-04-01,1339.4
+Banano bocadillo,2019-05-01,1226.6666666666667
+Banano bocadillo,2019-06-01,1235.3333333333333
+Banano bocadillo,2019-07-01,1251.1666666666667
+Banano bocadillo,2019-08-01,1273.1666666666667
+Banano criollo,2019-01-01,949.0571428571428
+Banano criollo,2019-02-01,969.3428571428572
+Banano criollo,2019-03-01,993.8857142857142
+Banano criollo,2019-04-01,1025.6
+Banano criollo,2019-05-01,1003.3714285714286
+Banano criollo,2019-06-01,1029.142857142857
+Banano criollo,2019-07-01,1037.7142857142858
+Banano criollo,2019-08-01,1010.4857142857143
+"Basa, filete congelado importado",2019-01-01,10198.222222222223
+"Basa, filete congelado importado",2019-02-01,10334.0
+"Basa, filete congelado importado",2019-03-01,10322.888888888889
+"Basa, filete congelado importado",2019-04-01,10389.25
+"Basa, filete congelado importado",2019-05-01,10537.666666666666
+"Basa, filete congelado importado",2019-06-01,10546.222222222223
+"Basa, filete congelado importado",2019-07-01,10477.444444444445
+"Basa, filete congelado importado",2019-08-01,10295.0
+Berenjena,2019-01-01,1665.875
+Berenjena,2019-02-01,1745.875
+Berenjena,2019-03-01,1672.625
+Berenjena,2019-04-01,1743.5
+Berenjena,2019-05-01,1755.0
+Berenjena,2019-06-01,1666.857142857143
+Berenjena,2019-07-01,1519.5714285714287
+Berenjena,2019-08-01,1295.4285714285713
+Blanquillo entero fresco,2019-01-01,8273.4
+Blanquillo entero fresco,2019-02-01,8957.5
+Blanquillo entero fresco,2019-03-01,9947.5
+Blanquillo entero fresco,2019-04-01,11477.25
+Blanquillo entero fresco,2019-05-01,10625.0
+Blanquillo entero fresco,2019-06-01,10636.75
+Blanquillo entero fresco,2019-07-01,10525.75
+Blanquillo entero fresco,2019-08-01,10342.25
+Bocachico criollo fresco,2019-01-01,9984.222222222223
+Bocachico criollo fresco,2019-02-01,10270.125
+Bocachico criollo fresco,2019-03-01,11156.888888888889
+Bocachico criollo fresco,2019-04-01,12607.375
+Bocachico criollo fresco,2019-05-01,12182.833333333334
+Bocachico criollo fresco,2019-06-01,12328.25
+Bocachico criollo fresco,2019-07-01,11430.714285714286
+Bocachico criollo fresco,2019-08-01,11941.375
+Bocachico importado congelado,2019-01-01,7530.882352941177
+Bocachico importado congelado,2019-02-01,7638.0
+Bocachico importado congelado,2019-03-01,7987.529411764706
+Bocachico importado congelado,2019-04-01,8249.35294117647
+Bocachico importado congelado,2019-05-01,8134.176470588235
+Bocachico importado congelado,2019-06-01,8125.294117647059
+Bocachico importado congelado,2019-07-01,7995.705882352941
+Bocachico importado congelado,2019-08-01,7949.294117647059
+Bocadillo veleño,2019-01-01,240.66666666666666
+Bocadillo veleño,2019-02-01,242.66666666666666
+Bocadillo veleño,2019-03-01,241.0
+Bocadillo veleño,2019-04-01,244.0
+Bocadillo veleño,2019-05-01,246.33333333333334
+Bocadillo veleño,2019-06-01,248.66666666666666
+Bocadillo veleño,2019-07-01,248.0
+Bocadillo veleño,2019-08-01,248.66666666666666
+Borojó,2019-01-01,4422.666666666667
+Borojó,2019-02-01,4221.666666666667
+Borojó,2019-03-01,4352.666666666667
+Borojó,2019-04-01,4559.333333333333
+Borojó,2019-05-01,4459.833333333333
+Borojó,2019-06-01,4548.166666666667
+Borojó,2019-07-01,4089.6
+Borojó,2019-08-01,5366.166666666667
+Breva,2019-01-01,2754.5
+Breva,2019-02-01,3381.0
+Breva,2019-03-01,4144.666666666667
+Breva,2019-04-01,3432.3333333333335
+Breva,2019-05-01,2785.5
+Breva,2019-06-01,3650.0
+Breva,2019-07-01,3971.6666666666665
+Breva,2019-08-01,3900.0
+Brócoli,2019-01-01,2584.68
+Brócoli,2019-02-01,2608.16
+Brócoli,2019-03-01,2988.72
+Brócoli,2019-04-01,2746.68
+Brócoli,2019-05-01,2912.44
+Brócoli,2019-06-01,2964.56
+Brócoli,2019-07-01,3054.16
+Brócoli,2019-08-01,2585.346153846154
+Cachama de cultivo fresca,2019-01-01,7118.0
+Cachama de cultivo fresca,2019-02-01,6995.125
+Cachama de cultivo fresca,2019-03-01,6928.9
+Cachama de cultivo fresca,2019-04-01,6948.7
+Cachama de cultivo fresca,2019-05-01,6745.111111111111
+Cachama de cultivo fresca,2019-06-01,6695.222222222223
+Cachama de cultivo fresca,2019-07-01,6764.444444444444
+Cachama de cultivo fresca,2019-08-01,6761.0
+Café instantáneo,2019-01-01,78212.95652173914
+Café instantáneo,2019-02-01,78657.04347826086
+Café instantáneo,2019-03-01,79070.91304347826
+Café instantáneo,2019-04-01,79519.21739130435
+Café instantáneo,2019-05-01,79711.30434782608
+Café instantáneo,2019-06-01,79764.30434782608
+Café instantáneo,2019-07-01,80217.78260869565
+Café instantáneo,2019-08-01,80488.56521739131
+Café molido,2019-01-01,16007.703703703704
+Café molido,2019-02-01,15987.407407407407
+Café molido,2019-03-01,15992.222222222223
+Café molido,2019-04-01,15993.666666666666
+Café molido,2019-05-01,15985.925925925925
+Café molido,2019-06-01,16001.666666666666
+Café molido,2019-07-01,15989.592592592593
+Café molido,2019-08-01,16062.666666666666
+Calabacín,2019-01-01,776.4
+Calabacín,2019-02-01,814.0
+Calabacín,2019-03-01,789.8571428571429
+Calabacín,2019-04-01,601.8571428571429
+Calabacín,2019-05-01,647.8571428571429
+Calabacín,2019-06-01,707.7142857142857
+Calabacín,2019-07-01,746.4285714285714
+Calabacín,2019-08-01,690.4285714285714
+Calabaza,2019-01-01,544.6666666666666
+Calabaza,2019-02-01,743.0
+Calabaza,2019-03-01,789.3333333333334
+Calabaza,2019-04-01,617.0
+Calabaza,2019-05-01,551.6666666666666
+Calabaza,2019-06-01,642.6666666666666
+Calabaza,2019-07-01,776.6666666666666
+Calabaza,2019-08-01,810.6666666666666
+Calamar anillos,2019-01-01,21486.833333333332
+Calamar anillos,2019-02-01,21734.0
+Calamar anillos,2019-03-01,21798.166666666668
+Calamar anillos,2019-04-01,21914.333333333332
+Calamar anillos,2019-05-01,21786.166666666668
+Calamar anillos,2019-06-01,21623.666666666668
+Calamar anillos,2019-07-01,21909.0
+Calamar anillos,2019-08-01,21458.5
+Calamar blanco entero,2019-01-01,13651.8
+Calamar blanco entero,2019-02-01,13856.2
+Calamar blanco entero,2019-03-01,13688.6
+Calamar blanco entero,2019-04-01,13414.8
+Calamar blanco entero,2019-05-01,12950.2
+Calamar blanco entero,2019-06-01,12505.4
+Calamar blanco entero,2019-07-01,12352.4
+Calamar blanco entero,2019-08-01,12148.0
+Calamar morado entero,2019-01-01,15324.75
+Calamar morado entero,2019-02-01,15204.5
+Calamar morado entero,2019-03-01,15794.0
+Calamar morado entero,2019-04-01,16345.0
+Calamar morado entero,2019-05-01,16706.25
+Calamar morado entero,2019-06-01,17186.333333333332
+Calamar morado entero,2019-07-01,16986.666666666668
+Calamar morado entero,2019-08-01,16363.75
+Camarón tigre precocido seco,2019-01-01,32065.5
+Camarón tigre precocido seco,2019-02-01,32029.0
+Camarón tigre precocido seco,2019-03-01,32027.666666666668
+Camarón tigre precocido seco,2019-04-01,31670.0
+Camarón tigre precocido seco,2019-05-01,31761.5
+Camarón tigre precocido seco,2019-06-01,31507.0
+Camarón tigre precocido seco,2019-07-01,31539.333333333332
+Camarón tigre precocido seco,2019-08-01,31661.833333333332
+Camarón tití precocido seco,2019-01-01,22650.5
+Camarón tití precocido seco,2019-02-01,21778.166666666668
+Camarón tití precocido seco,2019-03-01,21848.5
+Camarón tití precocido seco,2019-04-01,21711.833333333332
+Camarón tití precocido seco,2019-05-01,22160.666666666668
+Camarón tití precocido seco,2019-06-01,22769.5
+Camarón tití precocido seco,2019-07-01,23609.166666666668
+Camarón tití precocido seco,2019-08-01,24447.5
+Capaz Magdalena fresco,2019-02-01,8850.0
+Capaz Magdalena fresco,2019-03-01,8924.5
+Capaz Magdalena fresco,2019-04-01,10963.5
+Capaz Magdalena fresco,2019-05-01,9600.0
+Capaz Magdalena fresco,2019-06-01,9400.0
+Capaz Magdalena fresco,2019-07-01,10267.0
+Capaz Magdalena fresco,2019-08-01,11022.0
+Carne de cerdo en canal,2019-01-01,7043.5
+Carne de cerdo en canal,2019-02-01,7162.4
+Carne de cerdo en canal,2019-03-01,7145.0
+Carne de cerdo en canal,2019-04-01,7258.2
+Carne de cerdo en canal,2019-05-01,7568.4
+Carne de cerdo en canal,2019-06-01,7618.6
+Carne de cerdo en canal,2019-07-01,7486.4
+Carne de cerdo en canal,2019-08-01,7622.4
+"Carne de cerdo, brazo con hueso",2019-01-01,9947.181818181818
+"Carne de cerdo, brazo con hueso",2019-02-01,9758.636363636364
+"Carne de cerdo, brazo con hueso",2019-03-01,9771.545454545454
+"Carne de cerdo, brazo con hueso",2019-04-01,9797.0
+"Carne de cerdo, brazo con hueso",2019-05-01,9866.181818181818
+"Carne de cerdo, brazo con hueso",2019-06-01,9824.272727272728
+"Carne de cerdo, brazo con hueso",2019-07-01,9696.0
+"Carne de cerdo, brazo con hueso",2019-08-01,9702.90909090909
+"Carne de cerdo, brazo sin hueso",2019-01-01,11932.0
+"Carne de cerdo, brazo sin hueso",2019-02-01,11801.15
+"Carne de cerdo, brazo sin hueso",2019-03-01,11665.333333333334
+"Carne de cerdo, brazo sin hueso",2019-04-01,11668.714285714286
+"Carne de cerdo, brazo sin hueso",2019-05-01,11795.666666666666
+"Carne de cerdo, brazo sin hueso",2019-06-01,11756.619047619048
+"Carne de cerdo, brazo sin hueso",2019-07-01,11694.0
+"Carne de cerdo, brazo sin hueso",2019-08-01,11667.42857142857
+"Carne de cerdo, cabeza de lomo",2019-01-01,11295.875
+"Carne de cerdo, cabeza de lomo",2019-02-01,11095.625
+"Carne de cerdo, cabeza de lomo",2019-03-01,10958.0
+"Carne de cerdo, cabeza de lomo",2019-04-01,10923.777777777777
+"Carne de cerdo, cabeza de lomo",2019-05-01,11059.0
+"Carne de cerdo, cabeza de lomo",2019-06-01,10977.666666666666
+"Carne de cerdo, cabeza de lomo",2019-07-01,10985.111111111111
+"Carne de cerdo, cabeza de lomo",2019-08-01,11096.0
+"Carne de cerdo, costilla",2019-01-01,11794.2
+"Carne de cerdo, costilla",2019-02-01,11691.96
+"Carne de cerdo, costilla",2019-03-01,11771.076923076924
+"Carne de cerdo, costilla",2019-04-01,11758.26923076923
+"Carne de cerdo, costilla",2019-05-01,11839.961538461539
+"Carne de cerdo, costilla",2019-06-01,11806.923076923076
+"Carne de cerdo, costilla",2019-07-01,11790.961538461539
+"Carne de cerdo, costilla",2019-08-01,11771.884615384615
+"Carne de cerdo, espinazo",2019-01-01,6955.866666666667
+"Carne de cerdo, espinazo",2019-02-01,6931.176470588235
+"Carne de cerdo, espinazo",2019-03-01,7039.066666666667
+"Carne de cerdo, espinazo",2019-04-01,6986.266666666666
+"Carne de cerdo, espinazo",2019-05-01,6953.4
+"Carne de cerdo, espinazo",2019-06-01,7006.266666666666
+"Carne de cerdo, espinazo",2019-07-01,7076.533333333334
+"Carne de cerdo, espinazo",2019-08-01,7090.933333333333
+"Carne de cerdo, lomo con hueso",2019-01-01,10590.375
+"Carne de cerdo, lomo con hueso",2019-02-01,10325.0
+"Carne de cerdo, lomo con hueso",2019-03-01,10348.125
+"Carne de cerdo, lomo con hueso",2019-04-01,10344.0
+"Carne de cerdo, lomo con hueso",2019-05-01,10386.25
+"Carne de cerdo, lomo con hueso",2019-06-01,10355.125
+"Carne de cerdo, lomo con hueso",2019-07-01,10214.625
+"Carne de cerdo, lomo con hueso",2019-08-01,10216.125
+"Carne de cerdo, lomo sin hueso",2019-01-01,13919.423076923076
+"Carne de cerdo, lomo sin hueso",2019-02-01,13782.346153846154
+"Carne de cerdo, lomo sin hueso",2019-03-01,13840.615384615385
+"Carne de cerdo, lomo sin hueso",2019-04-01,13901.115384615385
+"Carne de cerdo, lomo sin hueso",2019-05-01,13821.192307692309
+"Carne de cerdo, lomo sin hueso",2019-06-01,13828.615384615385
+"Carne de cerdo, lomo sin hueso",2019-07-01,13889.461538461539
+"Carne de cerdo, lomo sin hueso",2019-08-01,13826.076923076924
+"Carne de cerdo, pernil con hueso",2019-01-01,10604.76923076923
+"Carne de cerdo, pernil con hueso",2019-02-01,10408.384615384615
+"Carne de cerdo, pernil con hueso",2019-03-01,10352.785714285714
+"Carne de cerdo, pernil con hueso",2019-04-01,10303.92857142857
+"Carne de cerdo, pernil con hueso",2019-05-01,10457.0
+"Carne de cerdo, pernil con hueso",2019-06-01,10357.142857142857
+"Carne de cerdo, pernil con hueso",2019-07-01,10250.57142857143
+"Carne de cerdo, pernil con hueso",2019-08-01,10286.714285714286
+"Carne de cerdo, pernil sin hueso",2019-01-01,12571.318181818182
+"Carne de cerdo, pernil sin hueso",2019-02-01,12419.863636363636
+"Carne de cerdo, pernil sin hueso",2019-03-01,12356.652173913044
+"Carne de cerdo, pernil sin hueso",2019-04-01,12423.652173913044
+"Carne de cerdo, pernil sin hueso",2019-05-01,12444.782608695652
+"Carne de cerdo, pernil sin hueso",2019-06-01,12436.173913043478
+"Carne de cerdo, pernil sin hueso",2019-07-01,12419.304347826086
+"Carne de cerdo, pernil sin hueso",2019-08-01,12395.130434782608
+"Carne de cerdo, tocineta plancha",2019-01-01,11333.0
+"Carne de cerdo, tocineta plancha",2019-02-01,11333.0
+"Carne de cerdo, tocineta plancha",2019-03-01,11333.0
+"Carne de cerdo, tocineta plancha",2019-04-01,11333.0
+"Carne de cerdo, tocineta plancha",2019-05-01,11400.0
+"Carne de cerdo, tocineta plancha",2019-06-01,11833.0
+"Carne de cerdo, tocineta plancha",2019-07-01,12000.0
+"Carne de cerdo, tocineta plancha",2019-08-01,11467.0
+"Carne de cerdo, tocino barriga",2019-01-01,9321.76923076923
+"Carne de cerdo, tocino barriga",2019-02-01,9321.846153846154
+"Carne de cerdo, tocino barriga",2019-03-01,9264.923076923076
+"Carne de cerdo, tocino barriga",2019-04-01,9292.384615384615
+"Carne de cerdo, tocino barriga",2019-05-01,9348.76923076923
+"Carne de cerdo, tocino barriga",2019-06-01,9326.76923076923
+"Carne de cerdo, tocino barriga",2019-07-01,9330.384615384615
+"Carne de cerdo, tocino barriga",2019-08-01,9327.923076923076
+"Carne de cerdo, tocino papada",2019-01-01,7863.384615384615
+"Carne de cerdo, tocino papada",2019-02-01,7940.384615384615
+"Carne de cerdo, tocino papada",2019-03-01,7872.846153846154
+"Carne de cerdo, tocino papada",2019-04-01,7913.076923076923
+"Carne de cerdo, tocino papada",2019-05-01,7950.461538461538
+"Carne de cerdo, tocino papada",2019-06-01,8017.307692307692
+"Carne de cerdo, tocino papada",2019-07-01,8060.923076923077
+"Carne de cerdo, tocino papada",2019-08-01,8135.384615384615
+Carne de res en canal,2019-01-01,9016.8
+Carne de res en canal,2019-02-01,9013.6
+Carne de res en canal,2019-03-01,9334.0
+Carne de res en canal,2019-04-01,9411.5
+Carne de res en canal,2019-05-01,9198.75
+Carne de res en canal,2019-06-01,9220.75
+Carne de res en canal,2019-07-01,9231.5
+Carne de res en canal,2019-08-01,9243.0
+"Carne de res molida, murillo",2019-01-01,10860.1
+"Carne de res molida, murillo",2019-02-01,10676.6
+"Carne de res molida, murillo",2019-03-01,10694.636363636364
+"Carne de res molida, murillo",2019-04-01,10846.90909090909
+"Carne de res molida, murillo",2019-05-01,11249.636363636364
+"Carne de res molida, murillo",2019-06-01,11192.818181818182
+"Carne de res molida, murillo",2019-07-01,11103.727272727272
+"Carne de res molida, murillo",2019-08-01,11069.454545454546
+"Carne de res, bola de brazo",2019-01-01,15125.857142857143
+"Carne de res, bola de brazo",2019-02-01,15127.904761904761
+"Carne de res, bola de brazo",2019-03-01,15349.238095238095
+"Carne de res, bola de brazo",2019-04-01,15453.57142857143
+"Carne de res, bola de brazo",2019-05-01,15728.809523809523
+"Carne de res, bola de brazo",2019-06-01,15953.190476190477
+"Carne de res, bola de brazo",2019-07-01,15996.57142857143
+"Carne de res, bola de brazo",2019-08-01,16028.0
+"Carne de res, bola de pierna",2019-01-01,15518.518518518518
+"Carne de res, bola de pierna",2019-02-01,15527.518518518518
+"Carne de res, bola de pierna",2019-03-01,15521.357142857143
+"Carne de res, bola de pierna",2019-04-01,15701.285714285714
+"Carne de res, bola de pierna",2019-05-01,15816.964285714286
+"Carne de res, bola de pierna",2019-06-01,15901.107142857143
+"Carne de res, bola de pierna",2019-07-01,16051.607142857143
+"Carne de res, bola de pierna",2019-08-01,16036.785714285714
+"Carne de res, bota",2019-01-01,15345.70588235294
+"Carne de res, bota",2019-02-01,15330.29411764706
+"Carne de res, bota",2019-03-01,15248.111111111111
+"Carne de res, bota",2019-04-01,15466.333333333334
+"Carne de res, bota",2019-05-01,15707.5
+"Carne de res, bota",2019-06-01,15904.5
+"Carne de res, bota",2019-07-01,16040.833333333334
+"Carne de res, bota",2019-08-01,15908.222222222223
+"Carne de res, cadera",2019-01-01,15812.291666666666
+"Carne de res, cadera",2019-02-01,15836.416666666666
+"Carne de res, cadera",2019-03-01,15766.72
+"Carne de res, cadera",2019-04-01,15921.24
+"Carne de res, cadera",2019-05-01,16090.72
+"Carne de res, cadera",2019-06-01,16215.04
+"Carne de res, cadera",2019-07-01,16377.76
+"Carne de res, cadera",2019-08-01,16322.04
+"Carne de res, centro de pierna",2019-01-01,15535.842105263158
+"Carne de res, centro de pierna",2019-02-01,15453.263157894737
+"Carne de res, centro de pierna",2019-03-01,15349.25
+"Carne de res, centro de pierna",2019-04-01,15590.95
+"Carne de res, centro de pierna",2019-05-01,15762.85
+"Carne de res, centro de pierna",2019-06-01,15929.75
+"Carne de res, centro de pierna",2019-07-01,16033.95
+"Carne de res, centro de pierna",2019-08-01,16004.45
+"Carne de res, chatas",2019-01-01,18332.08695652174
+"Carne de res, chatas",2019-02-01,18530.304347826088
+"Carne de res, chatas",2019-03-01,18433.5
+"Carne de res, chatas",2019-04-01,18654.875
+"Carne de res, chatas",2019-05-01,18881.583333333332
+"Carne de res, chatas",2019-06-01,19058.833333333332
+"Carne de res, chatas",2019-07-01,19164.375
+"Carne de res, chatas",2019-08-01,19027.0
+"Carne de res, cogote",2019-01-01,11314.5
+"Carne de res, cogote",2019-02-01,11473.75
+"Carne de res, cogote",2019-03-01,11647.5
+"Carne de res, cogote",2019-04-01,11775.125
+"Carne de res, cogote",2019-05-01,11930.0
+"Carne de res, cogote",2019-06-01,11918.75
+"Carne de res, cogote",2019-07-01,11975.375
+"Carne de res, cogote",2019-08-01,12093.25
+"Carne de res, costilla",2019-01-01,9186.666666666666
+"Carne de res, costilla",2019-02-01,9249.285714285714
+"Carne de res, costilla",2019-03-01,9267.181818181818
+"Carne de res, costilla",2019-04-01,9401.0
+"Carne de res, costilla",2019-05-01,9585.272727272728
+"Carne de res, costilla",2019-06-01,9758.59090909091
+"Carne de res, costilla",2019-07-01,9779.727272727272
+"Carne de res, costilla",2019-08-01,9751.136363636364
+"Carne de res, falda",2019-01-01,12132.285714285714
+"Carne de res, falda",2019-02-01,12141.619047619048
+"Carne de res, falda",2019-03-01,12102.904761904761
+"Carne de res, falda",2019-04-01,12236.333333333334
+"Carne de res, falda",2019-05-01,12330.095238095239
+"Carne de res, falda",2019-06-01,12377.857142857143
+"Carne de res, falda",2019-07-01,12448.0
+"Carne de res, falda",2019-08-01,12371.57142857143
+"Carne de res, lomo de brazo",2019-01-01,13768.666666666666
+"Carne de res, lomo de brazo",2019-02-01,13659.666666666666
+"Carne de res, lomo de brazo",2019-03-01,13708.666666666666
+"Carne de res, lomo de brazo",2019-04-01,13807.0
+"Carne de res, lomo de brazo",2019-05-01,13842.555555555555
+"Carne de res, lomo de brazo",2019-06-01,13938.0
+"Carne de res, lomo de brazo",2019-07-01,14133.222222222223
+"Carne de res, lomo de brazo",2019-08-01,14192.222222222223
+"Carne de res, lomo fino",2019-01-01,22574.083333333332
+"Carne de res, lomo fino",2019-02-01,22455.291666666668
+"Carne de res, lomo fino",2019-03-01,22105.88
+"Carne de res, lomo fino",2019-04-01,22235.6
+"Carne de res, lomo fino",2019-05-01,22455.28
+"Carne de res, lomo fino",2019-06-01,22672.4
+"Carne de res, lomo fino",2019-07-01,22592.96
+"Carne de res, lomo fino",2019-08-01,22756.76
+"Carne de res, morrillo",2019-01-01,12589.947368421053
+"Carne de res, morrillo",2019-02-01,12462.105263157895
+"Carne de res, morrillo",2019-03-01,12337.6
+"Carne de res, morrillo",2019-04-01,12547.2
+"Carne de res, morrillo",2019-05-01,12767.9
+"Carne de res, morrillo",2019-06-01,12800.263157894737
+"Carne de res, morrillo",2019-07-01,12767.368421052632
+"Carne de res, morrillo",2019-08-01,12672.684210526315
+"Carne de res, muchacho",2019-01-01,15887.0
+"Carne de res, muchacho",2019-02-01,15871.59090909091
+"Carne de res, muchacho",2019-03-01,15824.304347826086
+"Carne de res, muchacho",2019-04-01,16021.708333333334
+"Carne de res, muchacho",2019-05-01,16148.846153846154
+"Carne de res, muchacho",2019-06-01,16220.807692307691
+"Carne de res, muchacho",2019-07-01,16351.384615384615
+"Carne de res, muchacho",2019-08-01,16245.576923076924
+"Carne de res, murillo",2019-01-01,11135.416666666666
+"Carne de res, murillo",2019-02-01,11067.583333333334
+"Carne de res, murillo",2019-03-01,11106.076923076924
+"Carne de res, murillo",2019-04-01,11190.615384615385
+"Carne de res, murillo",2019-05-01,11561.0
+"Carne de res, murillo",2019-06-01,11790.384615384615
+"Carne de res, murillo",2019-07-01,11803.23076923077
+"Carne de res, murillo",2019-08-01,11682.23076923077
+"Carne de res, paletero",2019-01-01,13436.0
+"Carne de res, paletero",2019-02-01,13413.636363636364
+"Carne de res, paletero",2019-03-01,13306.636363636364
+"Carne de res, paletero",2019-04-01,13413.545454545454
+"Carne de res, paletero",2019-05-01,13686.90909090909
+"Carne de res, paletero",2019-06-01,13907.272727272728
+"Carne de res, paletero",2019-07-01,14149.636363636364
+"Carne de res, paletero",2019-08-01,14084.818181818182
+"Carne de res, pecho",2019-01-01,12885.736842105263
+"Carne de res, pecho",2019-02-01,12807.631578947368
+"Carne de res, pecho",2019-03-01,12772.894736842105
+"Carne de res, pecho",2019-04-01,12952.421052631578
+"Carne de res, pecho",2019-05-01,13181.421052631578
+"Carne de res, pecho",2019-06-01,13147.421052631578
+"Carne de res, pecho",2019-07-01,13254.578947368422
+"Carne de res, pecho",2019-08-01,13264.947368421053
+"Carne de res, punta de anca",2019-01-01,18472.84
+"Carne de res, punta de anca",2019-02-01,18487.08
+"Carne de res, punta de anca",2019-03-01,18375.5
+"Carne de res, punta de anca",2019-04-01,18477.615384615383
+"Carne de res, punta de anca",2019-05-01,18686.423076923078
+"Carne de res, punta de anca",2019-06-01,18962.26923076923
+"Carne de res, punta de anca",2019-07-01,19170.423076923078
+"Carne de res, punta de anca",2019-08-01,19092.384615384617
+"Carne de res, sobrebarriga",2019-01-01,13138.814814814816
+"Carne de res, sobrebarriga",2019-02-01,13018.814814814816
+"Carne de res, sobrebarriga",2019-03-01,12947.07142857143
+"Carne de res, sobrebarriga",2019-04-01,13044.142857142857
+"Carne de res, sobrebarriga",2019-05-01,13210.32142857143
+"Carne de res, sobrebarriga",2019-06-01,13322.82142857143
+"Carne de res, sobrebarriga",2019-07-01,13442.25
+"Carne de res, sobrebarriga",2019-08-01,13436.285714285714
+Cazuela de mariscos (paquete),2019-01-01,17063.333333333332
+Cazuela de mariscos (paquete),2019-02-01,16401.666666666668
+Cazuela de mariscos (paquete),2019-03-01,16065.333333333334
+Cazuela de mariscos (paquete),2019-04-01,16309.0
+Cazuela de mariscos (paquete),2019-05-01,12785.5
+Cazuela de mariscos (paquete),2019-06-01,15743.0
+Cazuela de mariscos (paquete),2019-07-01,16396.333333333332
+Cazuela de mariscos (paquete),2019-08-01,14634.0
+Cebolla cabezona blanca,2019-01-01,1864.09375
+Cebolla cabezona blanca,2019-02-01,1551.4516129032259
+Cebolla cabezona blanca,2019-03-01,1238.125
+Cebolla cabezona blanca,2019-04-01,1288.40625
+Cebolla cabezona blanca,2019-05-01,1201.8064516129032
+Cebolla cabezona blanca,2019-06-01,1518.4375
+Cebolla cabezona blanca,2019-07-01,1809.75
+Cebolla cabezona blanca,2019-08-01,1511.9375
+Cebolla cabezona blanca bogotana,2019-01-01,1889.3333333333333
+Cebolla cabezona blanca bogotana,2019-02-01,1527.1666666666667
+Cebolla cabezona blanca bogotana,2019-03-01,1248.5
+Cebolla cabezona blanca bogotana,2019-04-01,1313.7142857142858
+Cebolla cabezona blanca bogotana,2019-05-01,1210.5714285714287
+Cebolla cabezona blanca bogotana,2019-06-01,1530.6666666666667
+Cebolla cabezona blanca bogotana,2019-07-01,1747.0
+Cebolla cabezona blanca bogotana,2019-08-01,1430.1666666666667
+Cebolla cabezona blanca importada,2019-01-01,1862.5
+Cebolla cabezona blanca importada,2019-02-01,1657.5
+Cebolla cabezona blanca importada,2019-03-01,1419.0
+Cebolla cabezona blanca importada,2019-08-01,1304.5
+Cebolla cabezona blanca pastusa,2019-01-01,1654.25
+Cebolla cabezona blanca pastusa,2019-02-01,1525.0
+Cebolla cabezona blanca pastusa,2019-03-01,1313.6666666666667
+Cebolla cabezona blanca pastusa,2019-04-01,1346.0
+Cebolla cabezona blanca pastusa,2019-05-01,1205.0
+Cebolla cabezona blanca pastusa,2019-06-01,1442.0
+Cebolla cabezona blanca pastusa,2019-07-01,1591.75
+Cebolla cabezona blanca pastusa,2019-08-01,1329.5
+Cebolla cabezona roja,2019-01-01,2690.153846153846
+Cebolla cabezona roja,2019-02-01,2258.923076923077
+Cebolla cabezona roja,2019-03-01,2126.230769230769
+Cebolla cabezona roja,2019-04-01,2339.230769230769
+Cebolla cabezona roja,2019-05-01,2452.4615384615386
+Cebolla cabezona roja,2019-06-01,2328.3333333333335
+Cebolla cabezona roja,2019-07-01,2198.4166666666665
+Cebolla cabezona roja,2019-08-01,1403.3333333333333
+Cebolla cabezona roja importada,2019-01-01,2590.4
+Cebolla cabezona roja importada,2019-02-01,2285.6
+Cebolla cabezona roja importada,2019-03-01,2341.0
+Cebolla cabezona roja importada,2019-04-01,2635.2
+Cebolla cabezona roja importada,2019-05-01,2671.0
+Cebolla cabezona roja importada,2019-06-01,2580.8
+Cebolla cabezona roja importada,2019-07-01,2525.0
+Cebolla cabezona roja importada,2019-08-01,1760.8
+Cebolla cabezona roja ocañera,2019-01-01,2877.0
+Cebolla cabezona roja ocañera,2019-02-01,2822.0
+Cebolla cabezona roja ocañera,2019-03-01,2863.0
+Cebolla cabezona roja ocañera,2019-04-01,2500.0
+Cebolla cabezona roja ocañera,2019-06-01,2421.5
+Cebolla cabezona roja ocañera,2019-07-01,2360.0
+Cebolla cabezona roja ocañera,2019-08-01,1722.5
+Cebolla cabezona roja peruana,2019-01-01,2723.5
+Cebolla cabezona roja peruana,2019-02-01,2293.6
+Cebolla cabezona roja peruana,2019-03-01,2354.2
+Cebolla cabezona roja peruana,2019-04-01,2551.5
+Cebolla cabezona roja peruana,2019-05-01,2648.0
+Cebolla cabezona roja peruana,2019-06-01,2702.8333333333335
+Cebolla cabezona roja peruana,2019-07-01,2483.8333333333335
+Cebolla cabezona roja peruana,2019-08-01,1557.0
+Cebolla junca,2019-01-01,1962.3181818181818
+Cebolla junca,2019-02-01,1680.7727272727273
+Cebolla junca,2019-03-01,1711.1363636363637
+Cebolla junca,2019-04-01,1664.0
+Cebolla junca,2019-05-01,1585.2727272727273
+Cebolla junca,2019-06-01,1642.090909090909
+Cebolla junca,2019-07-01,1808.5
+Cebolla junca,2019-08-01,1794.1
+Cebolla junca Aquitania,2019-01-01,1920.5
+Cebolla junca Aquitania,2019-02-01,1602.7857142857142
+Cebolla junca Aquitania,2019-03-01,1908.142857142857
+Cebolla junca Aquitania,2019-04-01,1914.0714285714287
+Cebolla junca Aquitania,2019-05-01,1271.2857142857142
+Cebolla junca Aquitania,2019-06-01,1393.5
+Cebolla junca Aquitania,2019-07-01,1728.6923076923076
+Cebolla junca Aquitania,2019-08-01,1654.4615384615386
+Cebolla junca Berlín,2019-01-01,1710.6666666666667
+Cebolla junca Berlín,2019-02-01,1622.3333333333333
+Cebolla junca Berlín,2019-03-01,1759.8333333333333
+Cebolla junca Berlín,2019-04-01,1734.6666666666667
+Cebolla junca Berlín,2019-05-01,1226.8333333333333
+Cebolla junca Berlín,2019-06-01,1093.3333333333333
+Cebolla junca Berlín,2019-07-01,1489.3333333333333
+Cebolla junca Berlín,2019-08-01,1605.4285714285713
+Cebolla junca Tenerife,2019-01-01,1667.3333333333333
+Cebolla junca Tenerife,2019-02-01,1500.3333333333333
+Cebolla junca Tenerife,2019-03-01,1565.6666666666667
+Cebolla junca Tenerife,2019-04-01,1909.6666666666667
+Cebolla junca Tenerife,2019-05-01,1388.6666666666667
+Cebolla junca Tenerife,2019-06-01,1553.0
+Cebolla junca Tenerife,2019-07-01,1691.3333333333333
+Cebolla junca Tenerife,2019-08-01,1670.6666666666667
+Cebolla junca pastusa,2019-01-01,1478.0
+Cebolla junca pastusa,2019-02-01,1149.0
+Cebolla junca pastusa,2019-03-01,1193.0
+Cebolla junca pastusa,2019-04-01,1259.5
+Cebolla junca pastusa,2019-05-01,1137.25
+Cebolla junca pastusa,2019-06-01,1222.5
+Cebolla junca pastusa,2019-07-01,1317.5
+Cebolla junca pastusa,2019-08-01,1327.0
+Cebolla puerro,2019-01-01,2700.0
+Cebolla puerro,2019-02-01,2243.0
+Cebolla puerro,2019-03-01,2148.0
+Cebolla puerro,2019-04-01,2133.25
+Cebolla puerro,2019-05-01,2097.75
+Cebolla puerro,2019-06-01,2054.75
+Cebolla puerro,2019-07-01,2043.5
+Cebolla puerro,2019-08-01,1972.5
+Cebollín chino,2019-01-01,5014.0
+Cebollín chino,2019-02-01,5287.0
+Cebollín chino,2019-03-01,5016.5
+Cebollín chino,2019-04-01,4957.5
+Cebollín chino,2019-05-01,4829.5
+Cebollín chino,2019-06-01,5175.5
+Cebollín chino,2019-07-01,5401.5
+Cebollín chino,2019-08-01,5174.0
+Chocolate amargo,2019-01-01,21552.85714285714
+Chocolate amargo,2019-02-01,21722.428571428572
+Chocolate amargo,2019-03-01,21761.35714285714
+Chocolate amargo,2019-04-01,21702.153846153848
+Chocolate amargo,2019-05-01,21765.53846153846
+Chocolate amargo,2019-06-01,21753.076923076922
+Chocolate amargo,2019-07-01,21698.76923076923
+Chocolate amargo,2019-08-01,21651.69230769231
+Chocolate dulce,2019-01-01,11256.176470588236
+Chocolate dulce,2019-02-01,11341.0
+Chocolate dulce,2019-03-01,11358.888888888889
+Chocolate dulce,2019-04-01,11274.777777777777
+Chocolate dulce,2019-05-01,11294.611111111111
+Chocolate dulce,2019-06-01,11317.722222222223
+Chocolate dulce,2019-07-01,11279.0
+Chocolate dulce,2019-08-01,11230.055555555555
+Chocolate instantáneo,2019-01-01,19526.0
+Chocolate instantáneo,2019-02-01,19533.0
+Chocolate instantáneo,2019-03-01,19533.0
+Chocolate instantáneo,2019-04-01,19533.0
+Chocolate instantáneo,2019-05-01,19545.0
+Chocolate instantáneo,2019-06-01,19565.0
+Chocolate instantáneo,2019-07-01,19565.0
+Chocolate instantáneo,2019-08-01,19570.0
+Chócolo mazorca,2019-01-01,901.8108108108108
+Chócolo mazorca,2019-02-01,1010.7894736842105
+Chócolo mazorca,2019-03-01,1015.7894736842105
+Chócolo mazorca,2019-04-01,1127.157894736842
+Chócolo mazorca,2019-05-01,838.1052631578947
+Chócolo mazorca,2019-06-01,857.5405405405405
+Chócolo mazorca,2019-07-01,825.8684210526316
+Chócolo mazorca,2019-08-01,853.4473684210526
+Cidra,2019-01-01,482.6666666666667
+Cidra,2019-02-01,587.3333333333334
+Cidra,2019-03-01,985.3333333333334
+Cidra,2019-04-01,856.5
+Cidra,2019-05-01,666.3333333333334
+Cidra,2019-06-01,612.8333333333334
+Cidra,2019-07-01,658.1666666666666
+Cidra,2019-08-01,689.8333333333334
+Cilantro,2019-01-01,2679.404761904762
+Cilantro,2019-02-01,3280.904761904762
+Cilantro,2019-03-01,2855.285714285714
+Cilantro,2019-04-01,2657.4285714285716
+Cilantro,2019-05-01,2851.5
+Cilantro,2019-06-01,4017.3809523809523
+Cilantro,2019-07-01,3192.5476190476193
+Cilantro,2019-08-01,3077.0
+Ciruela importada,2019-01-01,9439.0
+Ciruela importada,2019-02-01,7876.0
+Ciruela importada,2019-03-01,7637.857142857143
+Ciruela importada,2019-04-01,8216.833333333334
+Ciruela importada,2019-05-01,8141.666666666667
+Ciruela importada,2019-06-01,9122.166666666666
+Ciruela importada,2019-07-01,9018.0
+Ciruela importada,2019-08-01,8007.714285714285
+Ciruela roja,2019-01-01,2107.0
+Ciruela roja,2019-02-01,2390.8888888888887
+Ciruela roja,2019-03-01,3118.4444444444443
+Ciruela roja,2019-04-01,2678.0
+Ciruela roja,2019-05-01,2647.5
+Ciruela roja,2019-06-01,2722.5714285714284
+Ciruela roja,2019-07-01,2486.5
+Ciruela roja,2019-08-01,1992.111111111111
+Coco,2019-01-01,2617.176470588235
+Coco,2019-02-01,2440.375
+Coco,2019-03-01,2526.4666666666667
+Coco,2019-04-01,2652.9333333333334
+Coco,2019-05-01,2761.1428571428573
+Coco,2019-06-01,2735.6666666666665
+Coco,2019-07-01,2839.9285714285716
+Coco,2019-08-01,2834.5333333333333
+Coles,2019-01-01,1428.0
+Coles,2019-02-01,1458.75
+Coles,2019-03-01,1448.75
+Coles,2019-04-01,1557.0
+Coles,2019-05-01,1954.5
+Coles,2019-06-01,2096.25
+Coles,2019-07-01,2202.0
+Coles,2019-08-01,1988.25
+Coliflor,2019-01-01,2486.3214285714284
+Coliflor,2019-02-01,2455.6071428571427
+Coliflor,2019-03-01,2966.1071428571427
+Coliflor,2019-04-01,2903.214285714286
+Coliflor,2019-05-01,2571.3571428571427
+Coliflor,2019-06-01,2563.1111111111113
+Coliflor,2019-07-01,2686.9285714285716
+Coliflor,2019-08-01,2482.9310344827586
+Color (bolsita),2019-01-01,18650.25
+Color (bolsita),2019-02-01,18541.25
+Color (bolsita),2019-03-01,18713.25
+Color (bolsita),2019-04-01,18739.25
+Color (bolsita),2019-05-01,18814.5
+Color (bolsita),2019-06-01,19086.25
+Color (bolsita),2019-07-01,19775.8
+Color (bolsita),2019-08-01,19848.8
+"Corvina, filete congelado nacional",2019-01-01,32049.0
+"Corvina, filete congelado nacional",2019-02-01,32005.666666666668
+"Corvina, filete congelado nacional",2019-03-01,32258.333333333332
+"Corvina, filete congelado nacional",2019-04-01,32300.0
+"Corvina, filete congelado nacional",2019-05-01,32011.333333333332
+"Corvina, filete congelado nacional",2019-06-01,32038.666666666668
+"Corvina, filete congelado nacional",2019-07-01,31913.333333333332
+"Corvina, filete congelado nacional",2019-08-01,31969.333333333332
+Cuchuco de cebada,2019-01-01,2009.0
+Cuchuco de cebada,2019-02-01,1999.0
+Cuchuco de cebada,2019-03-01,1985.5
+Cuchuco de cebada,2019-04-01,1985.5
+Cuchuco de cebada,2019-05-01,1998.0
+Cuchuco de cebada,2019-06-01,2024.0
+Cuchuco de cebada,2019-07-01,2266.0
+Cuchuco de cebada,2019-08-01,2427.0
+Cuchuco de maíz,2019-01-01,1553.0
+Cuchuco de maíz,2019-02-01,1545.9
+Cuchuco de maíz,2019-03-01,1538.0
+Cuchuco de maíz,2019-04-01,1515.4
+Cuchuco de maíz,2019-05-01,1507.2
+Cuchuco de maíz,2019-06-01,1550.4
+Cuchuco de maíz,2019-07-01,1761.6
+Cuchuco de maíz,2019-08-01,1872.9
+Curuba,2019-01-01,1466.7826086956522
+Curuba,2019-02-01,1660.8695652173913
+Curuba,2019-03-01,1747.0
+Curuba,2019-04-01,1591.25
+Curuba,2019-05-01,1440.6
+Curuba,2019-06-01,1479.2
+Curuba,2019-07-01,1705.0833333333333
+Curuba,2019-08-01,1931.0833333333333
+Durazno importado,2019-01-01,8899.8
+Durazno importado,2019-02-01,6924.142857142857
+Durazno importado,2019-03-01,6834.285714285715
+Durazno importado,2019-04-01,7910.166666666667
+Durazno importado,2019-05-01,9344.0
+Durazno importado,2019-06-01,9538.5
+Durazno importado,2019-07-01,8447.5
+Durazno importado,2019-08-01,8378.166666666666
+Durazno nacional,2019-01-01,3058.0
+Durazno nacional,2019-02-01,3087.375
+Durazno nacional,2019-03-01,3204.25
+Durazno nacional,2019-04-01,3171.125
+Durazno nacional,2019-05-01,3014.375
+Durazno nacional,2019-06-01,3056.0
+Durazno nacional,2019-07-01,3576.285714285714
+Durazno nacional,2019-08-01,3506.25
+Espinaca,2019-01-01,2800.0
+Espinaca,2019-02-01,2440.2
+Espinaca,2019-03-01,2463.35
+Espinaca,2019-04-01,2407.9
+Espinaca,2019-05-01,2578.05
+Espinaca,2019-06-01,3282.6
+Espinaca,2019-07-01,3084.8
+Espinaca,2019-08-01,2497.25
+Feijoa,2019-01-01,2791.6666666666665
+Feijoa,2019-02-01,3072.2
+Feijoa,2019-03-01,3150.6666666666665
+Feijoa,2019-04-01,3167.3333333333335
+Feijoa,2019-05-01,2700.0
+Feijoa,2019-06-01,2469.6666666666665
+Feijoa,2019-07-01,3143.2
+Feijoa,2019-08-01,4242.666666666667
+Fresa,2019-01-01,4445.7037037037035
+Fresa,2019-02-01,4399.185185185185
+Fresa,2019-03-01,4510.615384615385
+Fresa,2019-04-01,4590.37037037037
+Fresa,2019-05-01,4473.592592592592
+Fresa,2019-06-01,4397.346153846154
+Fresa,2019-07-01,4387.62962962963
+Fresa,2019-08-01,4417.153846153846
+Fríjol Uribe rosado,2019-01-01,5275.666666666667
+Fríjol Uribe rosado,2019-02-01,5300.666666666667
+Fríjol Uribe rosado,2019-03-01,5264.666666666667
+Fríjol Uribe rosado,2019-04-01,5236.333333333333
+Fríjol Uribe rosado,2019-05-01,5240.666666666667
+Fríjol Uribe rosado,2019-06-01,5112.0
+Fríjol Uribe rosado,2019-07-01,4957.333333333333
+Fríjol Uribe rosado,2019-08-01,4723.666666666667
+Fríjol Zaragoza,2019-01-01,5125.777777777777
+Fríjol Zaragoza,2019-02-01,5196.444444444444
+Fríjol Zaragoza,2019-03-01,5295.777777777777
+Fríjol Zaragoza,2019-04-01,5302.222222222223
+Fríjol Zaragoza,2019-05-01,5442.111111111111
+Fríjol Zaragoza,2019-06-01,5719.0
+Fríjol Zaragoza,2019-07-01,5822.666666666667
+Fríjol Zaragoza,2019-08-01,5615.666666666667
+Fríjol bolón,2019-01-01,7151.909090909091
+Fríjol bolón,2019-02-01,7063.0
+Fríjol bolón,2019-03-01,7111.090909090909
+Fríjol bolón,2019-04-01,6965.6
+Fríjol bolón,2019-05-01,7321.666666666667
+Fríjol bolón,2019-06-01,7500.166666666667
+Fríjol bolón,2019-07-01,7496.916666666667
+Fríjol bolón,2019-08-01,7265.0
+Fríjol cabeza negra importado,2019-01-01,5195.666666666667
+Fríjol cabeza negra importado,2019-02-01,5145.666666666667
+Fríjol cabeza negra importado,2019-03-01,5146.333333333333
+Fríjol cabeza negra importado,2019-04-01,5008.333333333333
+Fríjol cabeza negra importado,2019-05-01,5058.0
+Fríjol cabeza negra importado,2019-06-01,4978.333333333333
+Fríjol cabeza negra importado,2019-07-01,5043.0
+Fríjol cabeza negra importado,2019-08-01,5020.666666666667
+Fríjol cabeza negra nacional,2019-01-01,4496.5
+Fríjol cabeza negra nacional,2019-02-01,4303.25
+Fríjol cabeza negra nacional,2019-03-01,4367.25
+Fríjol cabeza negra nacional,2019-04-01,4382.0
+Fríjol cabeza negra nacional,2019-05-01,4462.8
+Fríjol cabeza negra nacional,2019-06-01,4532.2
+Fríjol cabeza negra nacional,2019-07-01,4661.0
+Fríjol cabeza negra nacional,2019-08-01,4633.0
+Fríjol calima,2019-01-01,4942.6
+Fríjol calima,2019-02-01,4950.7
+Fríjol calima,2019-03-01,4920.3
+Fríjol calima,2019-04-01,4975.333333333333
+Fríjol calima,2019-05-01,5173.111111111111
+Fríjol calima,2019-06-01,5291.0
+Fríjol calima,2019-07-01,5324.666666666667
+Fríjol calima,2019-08-01,5187.5
+Fríjol cargamanto blanco,2019-01-01,6947.428571428572
+Fríjol cargamanto blanco,2019-02-01,6252.857142857143
+Fríjol cargamanto blanco,2019-03-01,6409.428571428572
+Fríjol cargamanto blanco,2019-04-01,6615.142857142857
+Fríjol cargamanto blanco,2019-05-01,7234.571428571428
+Fríjol cargamanto blanco,2019-06-01,7244.285714285715
+Fríjol cargamanto blanco,2019-07-01,6602.428571428572
+Fríjol cargamanto blanco,2019-08-01,5765.285714285715
+Fríjol cargamanto rojo,2019-01-01,6147.571428571428
+Fríjol cargamanto rojo,2019-02-01,6021.714285714285
+Fríjol cargamanto rojo,2019-03-01,6137.142857142857
+Fríjol cargamanto rojo,2019-04-01,6209.857142857143
+Fríjol cargamanto rojo,2019-05-01,6497.5
+Fríjol cargamanto rojo,2019-06-01,6508.375
+Fríjol cargamanto rojo,2019-07-01,6255.588235294118
+Fríjol cargamanto rojo,2019-08-01,6049.117647058823
+Fríjol enlatado,2019-01-01,9489.5
+Fríjol enlatado,2019-02-01,9382.5
+Fríjol enlatado,2019-03-01,9317.5
+Fríjol enlatado,2019-04-01,9542.0
+Fríjol enlatado,2019-05-01,9446.5
+Fríjol enlatado,2019-06-01,9469.0
+Fríjol enlatado,2019-07-01,9592.5
+Fríjol enlatado,2019-08-01,9745.0
+Fríjol nima calima,2019-01-01,5329.5
+Fríjol nima calima,2019-02-01,5258.0
+Fríjol nima calima,2019-03-01,5258.2
+Fríjol nima calima,2019-04-01,5410.8
+Fríjol nima calima,2019-05-01,5634.6
+Fríjol nima calima,2019-06-01,5747.5
+Fríjol nima calima,2019-07-01,5719.9
+Fríjol nima calima,2019-08-01,5522.909090909091
+Fríjol palomito importado,2019-01-01,4114.75
+Fríjol palomito importado,2019-02-01,4081.0
+Fríjol palomito importado,2019-03-01,4115.0
+Fríjol palomito importado,2019-04-01,4061.5
+Fríjol palomito importado,2019-05-01,4076.0
+Fríjol palomito importado,2019-06-01,4189.25
+Fríjol palomito importado,2019-07-01,4254.25
+Fríjol palomito importado,2019-08-01,4209.25
+Fríjol radical,2019-01-01,4536.0
+Fríjol radical,2019-02-01,4642.166666666667
+Fríjol radical,2019-03-01,4638.0
+Fríjol radical,2019-04-01,4594.8
+Fríjol radical,2019-05-01,5040.25
+Fríjol radical,2019-06-01,4940.2
+Fríjol radical,2019-07-01,4831.0
+Fríjol radical,2019-08-01,4615.4
+Fríjol verde bolo,2019-01-01,2076.5
+Fríjol verde bolo,2019-02-01,2737.0
+Fríjol verde bolo,2019-03-01,3237.5
+Fríjol verde bolo,2019-04-01,2821.5
+Fríjol verde bolo,2019-05-01,2319.5
+Fríjol verde bolo,2019-06-01,1936.5
+Fríjol verde bolo,2019-07-01,2010.5
+Fríjol verde bolo,2019-08-01,2242.5
+Fríjol verde cargamanto,2019-01-01,1899.304347826087
+Fríjol verde cargamanto,2019-02-01,2261.086956521739
+Fríjol verde cargamanto,2019-03-01,3019.0
+Fríjol verde cargamanto,2019-04-01,2684.4347826086955
+Fríjol verde cargamanto,2019-05-01,2460.086956521739
+Fríjol verde cargamanto,2019-06-01,2459.304347826087
+Fríjol verde cargamanto,2019-07-01,2067.1304347826085
+Fríjol verde cargamanto,2019-08-01,2090.521739130435
+Fríjol verde en vaina,2019-01-01,2406.7391304347825
+Fríjol verde en vaina,2019-02-01,2544.0
+Fríjol verde en vaina,2019-03-01,3191.6521739130435
+Fríjol verde en vaina,2019-04-01,3037.0434782608695
+Fríjol verde en vaina,2019-05-01,2764.7391304347825
+Fríjol verde en vaina,2019-06-01,2737.681818181818
+Fríjol verde en vaina,2019-07-01,2454.391304347826
+Fríjol verde en vaina,2019-08-01,2471.478260869565
+Fécula de maíz,2019-01-01,17095.466666666667
+Fécula de maíz,2019-02-01,17207.066666666666
+Fécula de maíz,2019-03-01,17251.0
+Fécula de maíz,2019-04-01,17384.666666666668
+Fécula de maíz,2019-05-01,17459.4
+Fécula de maíz,2019-06-01,17552.666666666668
+Fécula de maíz,2019-07-01,17495.066666666666
+Fécula de maíz,2019-08-01,17541.933333333334
+Galletas dulces redondas con crema,2019-01-01,11349.545454545454
+Galletas dulces redondas con crema,2019-02-01,11290.5
+Galletas dulces redondas con crema,2019-03-01,11195.90909090909
+Galletas dulces redondas con crema,2019-04-01,11218.545454545454
+Galletas dulces redondas con crema,2019-05-01,11419.636363636364
+Galletas dulces redondas con crema,2019-06-01,11484.0
+Galletas dulces redondas con crema,2019-07-01,11399.333333333334
+Galletas dulces redondas con crema,2019-08-01,11387.666666666666
+Galletas saladas,2019-01-01,10168.533333333333
+Galletas saladas,2019-02-01,10197.366666666667
+Galletas saladas,2019-03-01,10215.8
+Galletas saladas,2019-04-01,10374.5
+Galletas saladas,2019-05-01,10412.633333333333
+Galletas saladas,2019-06-01,10535.103448275862
+Galletas saladas,2019-07-01,10534.206896551725
+Galletas saladas,2019-08-01,10506.214285714286
+Garbanzo importado,2019-01-01,4853.0
+Garbanzo importado,2019-02-01,4786.4
+Garbanzo importado,2019-03-01,4675.875
+Garbanzo importado,2019-04-01,4723.0
+Garbanzo importado,2019-05-01,4593.2
+Garbanzo importado,2019-06-01,4539.25
+Garbanzo importado,2019-07-01,4568.294117647059
+Garbanzo importado,2019-08-01,4467.411764705882
+Gelatina,2019-01-01,22805.346153846152
+Gelatina,2019-02-01,22757.80769230769
+Gelatina,2019-03-01,22819.69230769231
+Gelatina,2019-04-01,22897.576923076922
+Gelatina,2019-05-01,22743.19230769231
+Gelatina,2019-06-01,22559.115384615383
+Gelatina,2019-07-01,22437.153846153848
+Gelatina,2019-08-01,22444.19230769231
+Granadilla,2019-01-01,4082.40625
+Granadilla,2019-02-01,4873.827586206897
+Granadilla,2019-03-01,4212.214285714285
+Granadilla,2019-04-01,3132.3333333333335
+Granadilla,2019-05-01,3122.3939393939395
+Granadilla,2019-06-01,4699.931034482759
+Granadilla,2019-07-01,5111.612903225807
+Granadilla,2019-08-01,4031.1666666666665
+Guanábana,2019-01-01,2608.153846153846
+Guanábana,2019-02-01,2491.423076923077
+Guanábana,2019-03-01,2526.769230769231
+Guanábana,2019-04-01,2480.0384615384614
+Guanábana,2019-05-01,2370.6923076923076
+Guanábana,2019-06-01,2261.56
+Guanábana,2019-07-01,2371.16
+Guanábana,2019-08-01,2771.96
+Guayaba Atlántico,2019-01-01,1317.0
+Guayaba Atlántico,2019-02-01,1127.0
+Guayaba Atlántico,2019-03-01,1525.0
+Guayaba Atlántico,2019-04-01,1318.0
+Guayaba Atlántico,2019-05-01,1428.0
+Guayaba Atlántico,2019-06-01,1664.0
+Guayaba Atlántico,2019-07-01,1616.0
+Guayaba Atlántico,2019-08-01,1550.0
+Guayaba agria,2019-01-01,1999.0
+Guayaba agria,2019-02-01,2390.4285714285716
+Guayaba agria,2019-03-01,2633.4285714285716
+Guayaba agria,2019-04-01,2857.5
+Guayaba agria,2019-05-01,2607.1428571428573
+Guayaba agria,2019-06-01,2052.8571428571427
+Guayaba agria,2019-07-01,2191.4285714285716
+Guayaba agria,2019-08-01,2592.1428571428573
+Guayaba común,2019-01-01,1471.1666666666667
+Guayaba común,2019-02-01,1444.0
+Guayaba común,2019-03-01,1727.142857142857
+Guayaba común,2019-04-01,1782.0
+Guayaba común,2019-05-01,1722.4285714285713
+Guayaba común,2019-06-01,1913.5
+Guayaba común,2019-07-01,1924.5714285714287
+Guayaba común,2019-08-01,1569.5714285714287
+Guayaba manzana,2019-01-01,2016.75
+Guayaba manzana,2019-02-01,2144.5
+Guayaba manzana,2019-03-01,2139.5
+Guayaba manzana,2019-04-01,2103.25
+Guayaba manzana,2019-05-01,2207.25
+Guayaba manzana,2019-06-01,2121.0
+Guayaba manzana,2019-07-01,2130.25
+Guayaba manzana,2019-08-01,2160.75
+Guayaba pera,2019-01-01,1448.3513513513512
+Guayaba pera,2019-02-01,1402.3783783783783
+Guayaba pera,2019-03-01,1623.054054054054
+Guayaba pera,2019-04-01,1661.2972972972973
+Guayaba pera,2019-05-01,1727.9166666666667
+Guayaba pera,2019-06-01,1706.6486486486488
+Guayaba pera,2019-07-01,1741.7027027027027
+Guayaba pera,2019-08-01,1649.8648648648648
+Guayaba pera valluna,2019-01-01,1656.0
+Guayaba pera valluna,2019-02-01,1936.0
+Guayaba pera valluna,2019-03-01,1526.0
+Guayaba pera valluna,2019-04-01,1698.0
+Guayaba pera valluna,2019-05-01,1478.0
+Guayaba pera valluna,2019-06-01,1639.0
+Guayaba pera valluna,2019-07-01,1672.0
+Guayaba pera valluna,2019-08-01,1696.0
+Gulupa,2019-01-01,1203.6666666666667
+Gulupa,2019-02-01,1538.3333333333333
+Gulupa,2019-03-01,2042.5
+Gulupa,2019-04-01,2134.6666666666665
+Gulupa,2019-05-01,1410.3333333333333
+Gulupa,2019-06-01,1310.6666666666667
+Gulupa,2019-07-01,1611.3333333333333
+Gulupa,2019-08-01,1805.5
+Haba verde,2019-01-01,1452.9
+Haba verde,2019-02-01,1779.7
+Haba verde,2019-03-01,1981.1
+Haba verde,2019-04-01,1878.6
+Haba verde,2019-05-01,1695.0
+Haba verde,2019-06-01,1711.7272727272727
+Haba verde,2019-07-01,1623.7272727272727
+Haba verde,2019-08-01,1413.1818181818182
+Habichuela,2019-01-01,2063.5116279069766
+Habichuela,2019-02-01,2018.8139534883721
+Habichuela,2019-03-01,1765.046511627907
+Habichuela,2019-04-01,1572.8139534883721
+Habichuela,2019-05-01,1603.6511627906978
+Habichuela,2019-06-01,1946.2093023255813
+Habichuela,2019-07-01,2114.4418604651164
+Habichuela,2019-08-01,2116.4418604651164
+Habichuela larga,2019-01-01,3303.5
+Habichuela larga,2019-02-01,4418.0
+Habichuela larga,2019-03-01,3788.0
+Habichuela larga,2019-04-01,3135.5
+Habichuela larga,2019-05-01,4623.5
+Habichuela larga,2019-06-01,6178.5
+Habichuela larga,2019-07-01,4384.0
+Habichuela larga,2019-08-01,3957.5
+Harina de trigo,2019-01-01,1969.8484848484848
+Harina de trigo,2019-02-01,1975.2727272727273
+Harina de trigo,2019-03-01,1976.3636363636363
+Harina de trigo,2019-04-01,1986.4545454545455
+Harina de trigo,2019-05-01,2005.6060606060605
+Harina de trigo,2019-06-01,2040.4242424242425
+Harina de trigo,2019-07-01,2066.848484848485
+Harina de trigo,2019-08-01,2073.060606060606
+Harina precocida de maíz,2019-01-01,2593.967741935484
+Harina precocida de maíz,2019-02-01,2602.7096774193546
+Harina precocida de maíz,2019-03-01,2622.483870967742
+Harina precocida de maíz,2019-04-01,2661.7419354838707
+Harina precocida de maíz,2019-05-01,2722.1612903225805
+Harina precocida de maíz,2019-06-01,2785.483870967742
+Harina precocida de maíz,2019-07-01,2839.866666666667
+Harina precocida de maíz,2019-08-01,2857.9666666666667
+Higo,2019-01-01,3550.6666666666665
+Higo,2019-02-01,4819.0
+Higo,2019-03-01,5771.0
+Higo,2019-04-01,5688.333333333333
+Higo,2019-05-01,3205.3333333333335
+Higo,2019-06-01,2439.3333333333335
+Higo,2019-07-01,2681.6666666666665
+Higo,2019-08-01,5389.0
+Huevo blanco A,2019-01-01,277.0
+Huevo blanco A,2019-02-01,276.1666666666667
+Huevo blanco A,2019-03-01,280.5
+Huevo blanco A,2019-04-01,284.8333333333333
+Huevo blanco A,2019-05-01,301.1666666666667
+Huevo blanco A,2019-06-01,306.8333333333333
+Huevo blanco A,2019-07-01,304.5
+Huevo blanco A,2019-08-01,296.8333333333333
+Huevo blanco AA,2019-01-01,282.6
+Huevo blanco AA,2019-02-01,282.4
+Huevo blanco AA,2019-03-01,288.6
+Huevo blanco AA,2019-04-01,292.6
+Huevo blanco AA,2019-05-01,308.4
+Huevo blanco AA,2019-06-01,314.0
+Huevo blanco AA,2019-07-01,309.2
+Huevo blanco AA,2019-08-01,303.2
+Huevo blanco B,2019-01-01,251.75
+Huevo blanco B,2019-02-01,255.0
+Huevo blanco B,2019-03-01,261.5
+Huevo blanco B,2019-04-01,264.25
+Huevo blanco B,2019-05-01,281.25
+Huevo blanco B,2019-06-01,288.25
+Huevo blanco B,2019-07-01,282.5
+Huevo blanco B,2019-08-01,269.25
+Huevo blanco extra,2019-01-01,314.25
+Huevo blanco extra,2019-02-01,322.75
+Huevo blanco extra,2019-03-01,329.0
+Huevo blanco extra,2019-04-01,329.75
+Huevo blanco extra,2019-05-01,343.25
+Huevo blanco extra,2019-06-01,347.0
+Huevo blanco extra,2019-07-01,347.75
+Huevo blanco extra,2019-08-01,347.75
+Huevo rojo A,2019-01-01,266.3333333333333
+Huevo rojo A,2019-02-01,266.4347826086956
+Huevo rojo A,2019-03-01,277.17391304347825
+Huevo rojo A,2019-04-01,285.7391304347826
+Huevo rojo A,2019-05-01,298.2173913043478
+Huevo rojo A,2019-06-01,299.8695652173913
+Huevo rojo A,2019-07-01,294.4166666666667
+Huevo rojo A,2019-08-01,286.9583333333333
+Huevo rojo AA,2019-01-01,283.0
+Huevo rojo AA,2019-02-01,284.03846153846155
+Huevo rojo AA,2019-03-01,294.0769230769231
+Huevo rojo AA,2019-04-01,301.7692307692308
+Huevo rojo AA,2019-05-01,312.34615384615387
+Huevo rojo AA,2019-06-01,314.0
+Huevo rojo AA,2019-07-01,310.77777777777777
+Huevo rojo AA,2019-08-01,307.6296296296296
+Huevo rojo B,2019-01-01,255.8
+Huevo rojo B,2019-02-01,254.64285714285714
+Huevo rojo B,2019-03-01,265.7142857142857
+Huevo rojo B,2019-04-01,274.2857142857143
+Huevo rojo B,2019-05-01,289.35714285714283
+Huevo rojo B,2019-06-01,290.42857142857144
+Huevo rojo B,2019-07-01,283.46666666666664
+Huevo rojo B,2019-08-01,270.3333333333333
+Huevo rojo extra,2019-01-01,314.2
+Huevo rojo extra,2019-02-01,318.6666666666667
+Huevo rojo extra,2019-03-01,327.46666666666664
+Huevo rojo extra,2019-04-01,330.1333333333333
+Huevo rojo extra,2019-05-01,341.06666666666666
+Huevo rojo extra,2019-06-01,345.93333333333334
+Huevo rojo extra,2019-07-01,344.4
+Huevo rojo extra,2019-08-01,347.2
+Jugo de frutas,2019-01-01,5701.75
+Jugo de frutas,2019-02-01,5762.25
+Jugo de frutas,2019-03-01,5771.0
+Jugo de frutas,2019-04-01,5766.125
+Jugo de frutas,2019-05-01,5798.375
+Jugo de frutas,2019-06-01,5800.125
+Jugo de frutas,2019-07-01,5800.125
+Jugo de frutas,2019-08-01,5815.375
+Jugo instantáneo (sobre),2019-01-01,39411.739130434784
+Jugo instantáneo (sobre),2019-02-01,39265.608695652176
+Jugo instantáneo (sobre),2019-03-01,39351.739130434784
+Jugo instantáneo (sobre),2019-04-01,39366.86956521739
+Jugo instantáneo (sobre),2019-05-01,39355.217391304344
+Jugo instantáneo (sobre),2019-06-01,37361.04347826087
+Jugo instantáneo (sobre),2019-07-01,27982.125
+Jugo instantáneo (sobre),2019-08-01,26518.708333333332
+Kiwi,2019-01-01,10956.761904761905
+Kiwi,2019-02-01,11464.095238095239
+Kiwi,2019-03-01,10498.863636363636
+Kiwi,2019-04-01,8259.565217391304
+Kiwi,2019-05-01,7220.869565217391
+Kiwi,2019-06-01,6256.130434782609
+Kiwi,2019-07-01,5914.434782608696
+Kiwi,2019-08-01,8444.0
+Langostino 16-20,2019-01-01,52413.0
+Langostino 16-20,2019-02-01,59094.0
+Langostino 16-20,2019-03-01,57173.666666666664
+Langostino 16-20,2019-04-01,58245.75
+Langostino 16-20,2019-05-01,57588.5
+Langostino 16-20,2019-06-01,56989.25
+Langostino 16-20,2019-07-01,56233.25
+Langostino 16-20,2019-08-01,57200.25
+Langostino U12,2019-01-01,78335.66666666667
+Langostino U12,2019-02-01,83764.0
+Langostino U12,2019-03-01,84067.0
+Langostino U12,2019-04-01,78833.66666666667
+Langostino U12,2019-05-01,69683.5
+Langostino U12,2019-06-01,75194.66666666667
+Langostino U12,2019-07-01,74961.33333333333
+Langostino U12,2019-08-01,77677.66666666667
+Leche en polvo,2019-01-01,21189.823529411766
+Leche en polvo,2019-02-01,21121.944444444445
+Leche en polvo,2019-03-01,21097.277777777777
+Leche en polvo,2019-04-01,21544.130434782608
+Leche en polvo,2019-05-01,21568.695652173912
+Leche en polvo,2019-06-01,21634.130434782608
+Leche en polvo,2019-07-01,21908.227272727272
+Leche en polvo,2019-08-01,22049.68181818182
+Lechuga Batavia,2019-01-01,1448.925
+Lechuga Batavia,2019-02-01,1164.8
+Lechuga Batavia,2019-03-01,1165.3
+Lechuga Batavia,2019-04-01,1279.75
+Lechuga Batavia,2019-05-01,1233.05
+Lechuga Batavia,2019-06-01,1226.95
+Lechuga Batavia,2019-07-01,1215.8
+Lechuga Batavia,2019-08-01,1356.75
+Lechuga crespa verde,2019-01-01,2604.0
+Lechuga crespa verde,2019-02-01,2331.75
+Lechuga crespa verde,2019-03-01,2382.375
+Lechuga crespa verde,2019-04-01,2455.125
+Lechuga crespa verde,2019-05-01,2799.25
+Lechuga crespa verde,2019-06-01,2870.625
+Lechuga crespa verde,2019-07-01,2879.5
+Lechuga crespa verde,2019-08-01,2666.3333333333335
+Lenteja importada,2019-01-01,2791.0
+Lenteja importada,2019-02-01,2759.5714285714284
+Lenteja importada,2019-03-01,2756.1428571428573
+Lenteja importada,2019-04-01,2755.542857142857
+Lenteja importada,2019-05-01,2723.6285714285714
+Lenteja importada,2019-06-01,2680.0833333333335
+Lenteja importada,2019-07-01,2675.277777777778
+Lenteja importada,2019-08-01,2673.027777777778
+Limón Tahití,2019-01-01,1344.0967741935483
+Limón Tahití,2019-02-01,1365.8064516129032
+Limón Tahití,2019-03-01,2260.516129032258
+Limón Tahití,2019-04-01,2468.451612903226
+Limón Tahití,2019-05-01,1351.5483870967741
+Limón Tahití,2019-06-01,941.6129032258065
+Limón Tahití,2019-07-01,962.3
+Limón Tahití,2019-08-01,1435.1
+Limón común,2019-01-01,1557.5333333333333
+Limón común,2019-02-01,1637.75
+Limón común,2019-03-01,2321.65625
+Limón común,2019-04-01,2551.8125
+Limón común,2019-05-01,1505.4848484848485
+Limón común,2019-06-01,1199.969696969697
+Limón común,2019-07-01,1342.2424242424242
+Limón común,2019-08-01,1559.96875
+Limón común Ciénaga,2019-01-01,2856.0
+Limón común Ciénaga,2019-02-01,3125.5
+Limón común Ciénaga,2019-03-01,4412.0
+Limón común Ciénaga,2019-04-01,4648.0
+Limón común Ciénaga,2019-05-01,2384.6666666666665
+Limón común Ciénaga,2019-06-01,2013.0
+Limón común Ciénaga,2019-07-01,2548.0
+Limón común Ciénaga,2019-08-01,3188.0
+Limón común valluno,2019-01-01,1578.6666666666667
+Limón común valluno,2019-02-01,1468.3333333333333
+Limón común valluno,2019-03-01,2267.6666666666665
+Limón común valluno,2019-04-01,2537.0
+Limón común valluno,2019-05-01,1457.3333333333333
+Limón común valluno,2019-06-01,1096.6666666666667
+Limón común valluno,2019-07-01,1326.6666666666667
+Limón común valluno,2019-08-01,2356.3333333333335
+Limón mandarino,2019-01-01,887.4
+Limón mandarino,2019-02-01,924.2727272727273
+Limón mandarino,2019-03-01,1129.3636363636363
+Limón mandarino,2019-04-01,1391.2727272727273
+Limón mandarino,2019-05-01,1164.3636363636363
+Limón mandarino,2019-06-01,826.3636363636364
+Limón mandarino,2019-07-01,736.2727272727273
+Limón mandarino,2019-08-01,748.8181818181819
+Lomitos de atún en lata,2019-01-01,20958.214285714286
+Lomitos de atún en lata,2019-02-01,21292.44827586207
+Lomitos de atún en lata,2019-03-01,21370.724137931036
+Lomitos de atún en lata,2019-04-01,21133.071428571428
+Lomitos de atún en lata,2019-05-01,21151.785714285714
+Lomitos de atún en lata,2019-06-01,21059.714285714286
+Lomitos de atún en lata,2019-07-01,20780.185185185186
+Lomitos de atún en lata,2019-08-01,21024.14814814815
+Lulo,2019-01-01,2876.8
+Lulo,2019-02-01,2949.8
+Lulo,2019-03-01,2896.948717948718
+Lulo,2019-04-01,2786.0
+Lulo,2019-05-01,2937.675
+Lulo,2019-06-01,3109.675
+Lulo,2019-07-01,2984.15
+Lulo,2019-08-01,2891.075
+Mandarina Arrayana,2019-01-01,1242.0
+Mandarina Arrayana,2019-02-01,1306.157894736842
+Mandarina Arrayana,2019-03-01,1511.2631578947369
+Mandarina Arrayana,2019-04-01,1661.6842105263158
+Mandarina Arrayana,2019-05-01,1773.7777777777778
+Mandarina Arrayana,2019-06-01,1492.3684210526317
+Mandarina Arrayana,2019-07-01,1406.3157894736842
+Mandarina Arrayana,2019-08-01,1534.0
+Mandarina Oneco,2019-01-01,1431.6363636363637
+Mandarina Oneco,2019-02-01,1542.75
+Mandarina Oneco,2019-03-01,1613.8333333333333
+Mandarina Oneco,2019-04-01,1714.5833333333333
+Mandarina Oneco,2019-05-01,2037.5
+Mandarina Oneco,2019-06-01,2238.4166666666665
+Mandarina Oneco,2019-07-01,1794.5833333333333
+Mandarina Oneco,2019-08-01,1466.5833333333333
+Mandarina común,2019-01-01,1020.2777777777778
+Mandarina común,2019-02-01,1229.111111111111
+Mandarina común,2019-03-01,1644.4444444444443
+Mandarina común,2019-04-01,1894.642857142857
+Mandarina común,2019-05-01,1793.923076923077
+Mandarina común,2019-06-01,1865.3076923076924
+Mandarina común,2019-07-01,1806.5384615384614
+Mandarina común,2019-08-01,1789.9333333333334
+Mango Tommy,2019-01-01,1576.8918918918919
+Mango Tommy,2019-02-01,2052.4864864864867
+Mango Tommy,2019-03-01,2826.75
+Mango Tommy,2019-04-01,1831.6
+Mango Tommy,2019-05-01,1399.4571428571428
+Mango Tommy,2019-06-01,2104.5714285714284
+Mango Tommy,2019-07-01,3434.103448275862
+Mango Tommy,2019-08-01,4812.115384615385
+Mango Yulima,2019-01-01,1578.0
+Mango Yulima,2019-02-01,2082.0
+Mango Yulima,2019-03-01,1493.4285714285713
+Mango Yulima,2019-04-01,1003.0
+Mango Yulima,2019-05-01,1087.4285714285713
+Mango Yulima,2019-06-01,1656.6666666666667
+Mango Yulima,2019-07-01,2412.25
+Mango Yulima,2019-08-01,3060.6666666666665
+Mango común,2019-01-01,1326.4
+Mango común,2019-02-01,1596.875
+Mango común,2019-03-01,1831.111111111111
+Mango común,2019-04-01,1138.6363636363637
+Mango común,2019-05-01,1002.7
+Mango común,2019-06-01,1137.2
+Mango común,2019-07-01,1463.25
+Mango común,2019-08-01,2192.0
+Mango costeño,2019-03-01,1027.0
+Mango costeño,2019-04-01,612.0
+Mango costeño,2019-05-01,566.0
+Mango costeño,2019-06-01,923.0
+Mango costeño,2019-07-01,1275.0
+Mango costeño,2019-08-01,1444.0
+Mango de azúcar,2019-01-01,2665.75
+Mango de azúcar,2019-02-01,2680.6666666666665
+Mango de azúcar,2019-03-01,2072.6
+Mango de azúcar,2019-04-01,1553.25
+Mango de azúcar,2019-05-01,1359.0
+Mango de azúcar,2019-06-01,1923.7
+Mango de azúcar,2019-07-01,2626.5714285714284
+Mango de azúcar,2019-08-01,3291.2
+Mango manzano,2019-01-01,1810.111111111111
+Mango manzano,2019-02-01,2091.6
+Mango manzano,2019-03-01,1622.0
+Mango manzano,2019-04-01,1182.6363636363637
+Mango manzano,2019-05-01,1211.2
+Mango manzano,2019-06-01,1889.888888888889
+Mango manzano,2019-07-01,2630.2
+Mango manzano,2019-08-01,3379.25
+Mango reina,2019-03-01,1479.0
+Mango reina,2019-04-01,955.0
+Mango reina,2019-08-01,3095.6666666666665
+Manteca,2019-01-01,5038.375
+Manteca,2019-02-01,5025.6
+Manteca,2019-03-01,5064.0625
+Manteca,2019-04-01,5045.0
+Manteca,2019-05-01,5080.375
+Manteca,2019-06-01,5145.875
+Manteca,2019-07-01,5083.1875
+Manteca,2019-08-01,5047.733333333334
+Manzana nacional,2019-01-01,2686.25
+Manzana nacional,2019-02-01,2892.25
+Manzana nacional,2019-03-01,2981.25
+Manzana nacional,2019-04-01,2893.75
+Manzana nacional,2019-05-01,2890.25
+Manzana nacional,2019-06-01,3238.25
+Manzana nacional,2019-07-01,3282.0
+Manzana nacional,2019-08-01,3293.75
+Manzana roja importada,2019-01-01,5081.5526315789475
+Manzana roja importada,2019-02-01,5658.868421052632
+Manzana roja importada,2019-03-01,5870.441176470588
+Manzana roja importada,2019-04-01,5065.594594594595
+Manzana roja importada,2019-05-01,4815.7027027027025
+Manzana roja importada,2019-06-01,4994.621621621622
+Manzana roja importada,2019-07-01,5153.486486486487
+Manzana roja importada,2019-08-01,5353.621621621622
+Manzana royal gala importada,2019-01-01,5560.882352941177
+Manzana royal gala importada,2019-02-01,6426.878787878788
+Manzana royal gala importada,2019-03-01,5320.529411764706
+Manzana royal gala importada,2019-04-01,4336.058823529412
+Manzana royal gala importada,2019-05-01,4577.323529411765
+Manzana royal gala importada,2019-06-01,5009.058823529412
+Manzana royal gala importada,2019-07-01,5151.882352941177
+Manzana royal gala importada,2019-08-01,5501.64705882353
+Manzana verde importada,2019-01-01,6236.775
+Manzana verde importada,2019-02-01,6551.3
+Manzana verde importada,2019-03-01,5831.7
+Manzana verde importada,2019-04-01,4886.375
+Manzana verde importada,2019-05-01,4992.675
+Manzana verde importada,2019-06-01,5349.85
+Manzana verde importada,2019-07-01,5489.95
+Manzana verde importada,2019-08-01,6266.85
+Maracuyá,2019-01-01,2087.529411764706
+Maracuyá,2019-02-01,2693.6060606060605
+Maracuyá,2019-03-01,3803.0
+Maracuyá,2019-04-01,2800.21875
+Maracuyá,2019-05-01,2308.151515151515
+Maracuyá,2019-06-01,2039.6666666666667
+Maracuyá,2019-07-01,2508.969696969697
+Maracuyá,2019-08-01,2117.2727272727275
+Maracuyá antioqueño,2019-01-01,2133.0
+Maracuyá antioqueño,2019-02-01,2358.0
+Maracuyá antioqueño,2019-03-01,3469.5
+Maracuyá antioqueño,2019-04-01,3157.5
+Maracuyá antioqueño,2019-05-01,2380.0
+Maracuyá antioqueño,2019-06-01,2100.6666666666665
+Maracuyá antioqueño,2019-07-01,2189.0
+Maracuyá antioqueño,2019-08-01,1874.6666666666667
+Maracuyá huilense,2019-01-01,1571.5
+Maracuyá huilense,2019-02-01,1947.5
+Maracuyá huilense,2019-03-01,3144.0
+Maracuyá huilense,2019-04-01,2259.5
+Maracuyá huilense,2019-05-01,1864.0
+Maracuyá huilense,2019-06-01,1503.5
+Maracuyá huilense,2019-07-01,2047.0
+Maracuyá huilense,2019-08-01,1700.5
+Maracuyá santandereano,2019-01-01,2540.25
+Maracuyá santandereano,2019-02-01,3004.0
+Maracuyá santandereano,2019-03-01,3932.0
+Maracuyá santandereano,2019-04-01,3064.25
+Maracuyá santandereano,2019-05-01,2878.5
+Maracuyá santandereano,2019-06-01,2483.25
+Maracuyá santandereano,2019-07-01,3040.5
+Maracuyá santandereano,2019-08-01,2526.5
+Maracuyá valluno,2019-01-01,2716.0
+Maracuyá valluno,2019-02-01,3123.75
+Maracuyá valluno,2019-03-01,4196.333333333333
+Maracuyá valluno,2019-04-01,3665.3333333333335
+Maracuyá valluno,2019-05-01,3255.25
+Maracuyá valluno,2019-06-01,2897.6666666666665
+Maracuyá valluno,2019-07-01,3643.5
+Maracuyá valluno,2019-08-01,3179.0
+Margarina,2019-01-01,12654.285714285714
+Margarina,2019-02-01,12646.238095238095
+Margarina,2019-03-01,12646.52380952381
+Margarina,2019-04-01,12565.6
+Margarina,2019-05-01,12924.684210526315
+Margarina,2019-06-01,12906.0
+Margarina,2019-07-01,13008.15
+Margarina,2019-08-01,12734.095238095239
+Mayonesa doy pack,2019-01-01,14175.684210526315
+Mayonesa doy pack,2019-02-01,13759.7
+Mayonesa doy pack,2019-03-01,13688.05
+Mayonesa doy pack,2019-04-01,13677.9
+Mayonesa doy pack,2019-05-01,13607.315789473685
+Mayonesa doy pack,2019-06-01,13417.111111111111
+Mayonesa doy pack,2019-07-01,11888.130434782608
+Mayonesa doy pack,2019-08-01,11864.227272727272
+Maíz amarillo cáscara,2019-01-01,1071.5
+Maíz amarillo cáscara,2019-02-01,1070.6666666666667
+Maíz amarillo cáscara,2019-03-01,1089.8333333333333
+Maíz amarillo cáscara,2019-04-01,1125.9166666666667
+Maíz amarillo cáscara,2019-05-01,1156.1666666666667
+Maíz amarillo cáscara,2019-06-01,1262.75
+Maíz amarillo cáscara,2019-07-01,1380.5833333333333
+Maíz amarillo cáscara,2019-08-01,1323.4166666666667
+Maíz amarillo cáscara importado,2019-01-01,988.0
+Maíz amarillo cáscara importado,2019-02-01,1044.0
+Maíz amarillo cáscara importado,2019-03-01,1050.0
+Maíz amarillo cáscara importado,2019-04-01,1075.0
+Maíz amarillo cáscara importado,2019-05-01,1095.0
+Maíz amarillo cáscara importado,2019-06-01,1108.0
+Maíz amarillo cáscara importado,2019-07-01,1316.0
+Maíz amarillo cáscara importado,2019-08-01,1059.0
+Maíz amarillo trillado,2019-01-01,1480.4285714285713
+Maíz amarillo trillado,2019-02-01,1457.0714285714287
+Maíz amarillo trillado,2019-03-01,1414.357142857143
+Maíz amarillo trillado,2019-04-01,1432.642857142857
+Maíz amarillo trillado,2019-05-01,1492.0
+Maíz amarillo trillado,2019-06-01,1603.357142857143
+Maíz amarillo trillado,2019-07-01,1754.357142857143
+Maíz amarillo trillado,2019-08-01,1718.7142857142858
+Maíz blanco cáscara,2019-01-01,1326.5
+Maíz blanco cáscara,2019-02-01,1250.0
+Maíz blanco cáscara,2019-03-01,1400.0
+Maíz blanco cáscara,2019-04-01,1400.0
+Maíz blanco cáscara,2019-05-01,1398.0
+Maíz blanco cáscara,2019-06-01,1477.0
+Maíz blanco cáscara,2019-07-01,1351.0
+Maíz blanco cáscara,2019-08-01,1225.0
+Maíz blanco retrillado,2019-01-01,1540.0
+Maíz blanco retrillado,2019-02-01,1468.0
+Maíz blanco retrillado,2019-03-01,1475.0
+Maíz blanco retrillado,2019-04-01,1491.0
+Maíz blanco retrillado,2019-05-01,1471.0
+Maíz blanco retrillado,2019-06-01,1483.0
+Maíz blanco retrillado,2019-07-01,1511.0
+Maíz blanco retrillado,2019-08-01,1481.0
+Maíz blanco trillado,2019-01-01,1654.2758620689656
+Maíz blanco trillado,2019-02-01,1611.103448275862
+Maíz blanco trillado,2019-03-01,1592.7241379310344
+Maíz blanco trillado,2019-04-01,1587.896551724138
+Maíz blanco trillado,2019-05-01,1597.5862068965516
+Maíz blanco trillado,2019-06-01,1641.9310344827586
+Maíz blanco trillado,2019-07-01,1666.551724137931
+Maíz blanco trillado,2019-08-01,1632.5862068965516
+Maíz enlatado,2019-01-01,10307.0
+Maíz enlatado,2019-02-01,10320.0
+Maíz enlatado,2019-03-01,10320.0
+Maíz enlatado,2019-04-01,10320.0
+Maíz enlatado,2019-05-01,10288.0
+Maíz enlatado,2019-06-01,10079.0
+Maíz enlatado,2019-07-01,9619.0
+Maíz enlatado,2019-08-01,9638.0
+Maíz pira,2019-01-01,2396.1
+Maíz pira,2019-02-01,2389.4
+Maíz pira,2019-03-01,2352.6
+Maíz pira,2019-04-01,2426.1
+Maíz pira,2019-05-01,2438.8
+Maíz pira,2019-06-01,2494.818181818182
+Maíz pira,2019-07-01,2502.6363636363635
+Maíz pira,2019-08-01,2440.3
+Melón Cantalup,2019-01-01,1986.76
+Melón Cantalup,2019-02-01,1868.111111111111
+Melón Cantalup,2019-03-01,1867.3333333333333
+Melón Cantalup,2019-04-01,1793.8461538461538
+Melón Cantalup,2019-05-01,1916.0384615384614
+Melón Cantalup,2019-06-01,2176.769230769231
+Melón Cantalup,2019-07-01,2558.346153846154
+Melón Cantalup,2019-08-01,2102.3076923076924
+Menudencias de pollo,2019-01-01,1670.875
+Menudencias de pollo,2019-02-01,1730.75
+Menudencias de pollo,2019-03-01,1779.75
+Menudencias de pollo,2019-04-01,1788.625
+Menudencias de pollo,2019-05-01,1922.3333333333333
+Menudencias de pollo,2019-06-01,1922.5555555555557
+Menudencias de pollo,2019-07-01,1932.4444444444443
+Menudencias de pollo,2019-08-01,1946.3333333333333
+"Merluza, filete importado",2019-01-01,12145.4
+"Merluza, filete importado",2019-02-01,12427.2
+"Merluza, filete importado",2019-03-01,12750.4
+"Merluza, filete importado",2019-04-01,12819.0
+"Merluza, filete importado",2019-05-01,12711.6
+"Merluza, filete importado",2019-06-01,12145.666666666666
+"Merluza, filete importado",2019-07-01,12172.666666666666
+"Merluza, filete importado",2019-08-01,12368.333333333334
+"Merluza, filete nacional",2019-01-01,33264.0
+"Merluza, filete nacional",2019-02-01,33249.25
+"Merluza, filete nacional",2019-03-01,32746.25
+"Merluza, filete nacional",2019-04-01,32277.0
+"Merluza, filete nacional",2019-05-01,32081.5
+"Merluza, filete nacional",2019-06-01,32018.75
+"Merluza, filete nacional",2019-07-01,32101.0
+"Merluza, filete nacional",2019-08-01,32165.5
+Mojarra lora entera congelada,2019-01-01,8470.0
+Mojarra lora entera congelada,2019-02-01,9070.0
+Mojarra lora entera congelada,2019-03-01,9277.666666666666
+Mojarra lora entera congelada,2019-04-01,9527.333333333334
+Mojarra lora entera congelada,2019-05-01,9195.666666666666
+Mojarra lora entera congelada,2019-06-01,9219.333333333334
+Mojarra lora entera congelada,2019-07-01,9254.333333333334
+Mojarra lora entera congelada,2019-08-01,9357.666666666666
+Mojarra lora entera fresca,2019-01-01,7297.666666666667
+Mojarra lora entera fresca,2019-02-01,7065.0
+Mojarra lora entera fresca,2019-03-01,7432.6
+Mojarra lora entera fresca,2019-04-01,8052.4
+Mojarra lora entera fresca,2019-05-01,7920.4
+Mojarra lora entera fresca,2019-06-01,7810.0
+Mojarra lora entera fresca,2019-07-01,8007.8
+Mojarra lora entera fresca,2019-08-01,7960.8
+Mora de Castilla,2019-01-01,2775.048780487805
+Mora de Castilla,2019-02-01,2595.5853658536585
+Mora de Castilla,2019-03-01,2803.439024390244
+Mora de Castilla,2019-04-01,3404.1463414634145
+Mora de Castilla,2019-05-01,3054.3658536585367
+Mora de Castilla,2019-06-01,2884.487804878049
+Mora de Castilla,2019-07-01,2676.5365853658536
+Mora de Castilla,2019-08-01,2657.45
+Mostaza doy pack,2019-01-01,17208.0
+Mostaza doy pack,2019-02-01,18021.0
+Mostaza doy pack,2019-03-01,18073.0
+Mostaza doy pack,2019-04-01,18125.0
+Mostaza doy pack,2019-05-01,14682.0
+Mostaza doy pack,2019-07-01,10197.5
+Mostaza doy pack,2019-08-01,10186.5
+Muslos de pollo con rabadilla,2019-01-01,4970.0
+Muslos de pollo con rabadilla,2019-02-01,5025.0
+Muslos de pollo con rabadilla,2019-03-01,5038.0
+Muslos de pollo con rabadilla,2019-04-01,5050.0
+Muslos de pollo con rabadilla,2019-05-01,4980.0
+Muslos de pollo con rabadilla,2019-06-01,4975.0
+Muslos de pollo con rabadilla,2019-07-01,5000.0
+Muslos de pollo con rabadilla,2019-08-01,5000.0
+Muslos de pollo sin rabadilla,2019-01-01,6852.125
+Muslos de pollo sin rabadilla,2019-02-01,6828.0
+Muslos de pollo sin rabadilla,2019-03-01,6880.625
+Muslos de pollo sin rabadilla,2019-04-01,6797.0
+Muslos de pollo sin rabadilla,2019-05-01,6816.333333333333
+Muslos de pollo sin rabadilla,2019-06-01,6769.555555555556
+Muslos de pollo sin rabadilla,2019-07-01,6753.0
+Muslos de pollo sin rabadilla,2019-08-01,6849.111111111111
+Naranja Sweet,2019-01-01,819.6153846153846
+Naranja Sweet,2019-02-01,745.0
+Naranja Sweet,2019-03-01,754.3846153846154
+Naranja Sweet,2019-04-01,761.2307692307693
+Naranja Sweet,2019-05-01,770.8461538461538
+Naranja Sweet,2019-06-01,857.0
+Naranja Sweet,2019-07-01,903.6923076923077
+Naranja Sweet,2019-08-01,802.1538461538462
+Naranja Valencia,2019-01-01,911.6551724137931
+Naranja Valencia,2019-02-01,891.7857142857143
+Naranja Valencia,2019-03-01,916.1034482758621
+Naranja Valencia,2019-04-01,951.4074074074074
+Naranja Valencia,2019-05-01,953.4444444444445
+Naranja Valencia,2019-06-01,985.1481481481482
+Naranja Valencia,2019-07-01,1005.5769230769231
+Naranja Valencia,2019-08-01,946.2692307692307
+Naranja común,2019-01-01,554.7894736842105
+Naranja común,2019-02-01,606.8888888888889
+Naranja común,2019-03-01,665.7647058823529
+Naranja común,2019-04-01,727.5
+Naranja común,2019-05-01,733.9285714285714
+Naranja común,2019-06-01,715.0
+Naranja común,2019-07-01,730.0714285714286
+Naranja común,2019-08-01,666.4666666666667
+Nicuro fresco,2019-01-01,7998.0
+Nicuro fresco,2019-02-01,8757.75
+Nicuro fresco,2019-03-01,8387.0
+Nicuro fresco,2019-04-01,9261.0
+Nicuro fresco,2019-05-01,9209.666666666666
+Nicuro fresco,2019-06-01,6390.0
+Nicuro fresco,2019-07-01,6830.0
+Nicuro fresco,2019-08-01,7573.0
+Palmitos de mar,2019-01-01,11561.0
+Palmitos de mar,2019-02-01,11337.666666666666
+Palmitos de mar,2019-03-01,11526.333333333334
+Palmitos de mar,2019-04-01,11341.333333333334
+Palmitos de mar,2019-05-01,11372.666666666666
+Palmitos de mar,2019-06-01,11246.666666666666
+Palmitos de mar,2019-07-01,11239.0
+Palmitos de mar,2019-08-01,11116.333333333334
+Panela cuadrada blanca,2019-01-01,1901.8125
+Panela cuadrada blanca,2019-02-01,1792.8125
+Panela cuadrada blanca,2019-03-01,1735.375
+Panela cuadrada blanca,2019-04-01,1711.625
+Panela cuadrada blanca,2019-05-01,1786.4375
+Panela cuadrada blanca,2019-06-01,1775.5625
+Panela cuadrada blanca,2019-07-01,1894.6875
+Panela cuadrada blanca,2019-08-01,1884.0
+Panela cuadrada morena,2019-01-01,1899.0714285714287
+Panela cuadrada morena,2019-02-01,1821.642857142857
+Panela cuadrada morena,2019-03-01,1783.5
+Panela cuadrada morena,2019-04-01,1784.9642857142858
+Panela cuadrada morena,2019-05-01,1864.607142857143
+Panela cuadrada morena,2019-06-01,1818.6785714285713
+Panela cuadrada morena,2019-07-01,1918.4285714285713
+Panela cuadrada morena,2019-08-01,1840.5357142857142
+Panela en pastilla,2019-01-01,1670.3333333333333
+Panela en pastilla,2019-02-01,1644.6666666666667
+Panela en pastilla,2019-03-01,1601.0
+Panela en pastilla,2019-04-01,1659.3333333333333
+Panela en pastilla,2019-05-01,1855.0
+Panela en pastilla,2019-06-01,1533.3333333333333
+Panela en pastilla,2019-07-01,1646.6666666666667
+Panela en pastilla,2019-08-01,1521.6666666666667
+Panela redonda blanca,2019-01-01,2048.0
+Panela redonda blanca,2019-02-01,2049.0
+Panela redonda blanca,2019-03-01,1945.0
+Panela redonda blanca,2019-04-01,1945.0
+Panela redonda blanca,2019-05-01,2004.0
+Panela redonda blanca,2019-06-01,2006.5
+Panela redonda blanca,2019-07-01,1992.0
+Panela redonda blanca,2019-08-01,2014.0
+Panela redonda morena,2019-01-01,2285.777777777778
+Panela redonda morena,2019-02-01,2255.0555555555557
+Panela redonda morena,2019-03-01,2292.722222222222
+Panela redonda morena,2019-04-01,2412.277777777778
+Panela redonda morena,2019-05-01,2444.5
+Panela redonda morena,2019-06-01,2435.0555555555557
+Panela redonda morena,2019-07-01,2444.9444444444443
+Panela redonda morena,2019-08-01,2377.5555555555557
+Papa Betina,2019-01-01,651.5
+Papa Betina,2019-02-01,590.8333333333334
+Papa Betina,2019-03-01,802.4285714285714
+Papa Betina,2019-04-01,799.0
+Papa Betina,2019-05-01,786.0
+Papa Betina,2019-06-01,1000.1666666666666
+Papa Betina,2019-07-01,813.4285714285714
+Papa Betina,2019-08-01,763.7142857142857
+Papa ICA-Huila,2019-01-01,1095.0
+Papa ICA-Huila,2019-02-01,1015.25
+Papa ICA-Huila,2019-03-01,931.75
+Papa ICA-Huila,2019-04-01,994.0
+Papa ICA-Huila,2019-05-01,1032.0
+Papa ICA-Huila,2019-06-01,1178.75
+Papa ICA-Huila,2019-07-01,999.6666666666666
+Papa ICA-Huila,2019-08-01,1076.3333333333333
+Papa Morasurco,2019-01-01,715.5
+Papa Morasurco,2019-02-01,596.0
+Papa Morasurco,2019-03-01,640.25
+Papa Morasurco,2019-04-01,644.75
+Papa Morasurco,2019-05-01,681.75
+Papa Morasurco,2019-06-01,894.5
+Papa Morasurco,2019-07-01,819.75
+Papa Morasurco,2019-08-01,917.25
+Papa Puracé,2019-01-01,1128.0
+Papa Puracé,2019-02-01,1144.0
+Papa Puracé,2019-03-01,1189.0
+Papa Puracé,2019-04-01,1524.3333333333333
+Papa Puracé,2019-05-01,1520.3333333333333
+Papa Puracé,2019-06-01,1589.0
+Papa Puracé,2019-07-01,1560.3333333333333
+Papa Puracé,2019-08-01,1407.6666666666667
+Papa R-12 negra,2019-01-01,1017.0
+Papa R-12 negra,2019-02-01,1009.0
+Papa R-12 negra,2019-03-01,1133.4
+Papa R-12 negra,2019-04-01,1257.6
+Papa R-12 negra,2019-05-01,1252.4285714285713
+Papa R-12 negra,2019-06-01,1293.142857142857
+Papa R-12 negra,2019-07-01,1201.857142857143
+Papa R-12 negra,2019-08-01,1089.5714285714287
+Papa R-12 roja,2019-01-01,1033.0
+Papa R-12 roja,2019-02-01,1045.4
+Papa R-12 roja,2019-03-01,1111.5
+Papa R-12 roja,2019-04-01,1416.3333333333333
+Papa R-12 roja,2019-05-01,1294.5
+Papa R-12 roja,2019-06-01,1270.0
+Papa R-12 roja,2019-07-01,1095.2
+Papa R-12 roja,2019-08-01,1009.25
+Papa San Félix,2019-01-01,1155.0
+Papa San Félix,2019-02-01,1081.0
+Papa San Félix,2019-03-01,1453.0
+Papa San Félix,2019-04-01,1643.0
+Papa San Félix,2019-05-01,1442.0
+Papa San Félix,2019-06-01,1468.0
+Papa San Félix,2019-07-01,1554.0
+Papa San Félix,2019-08-01,1633.0
+Papa capira,2019-01-01,1173.0689655172414
+Papa capira,2019-02-01,1176.7931034482758
+Papa capira,2019-03-01,1227.448275862069
+Papa capira,2019-04-01,1240.892857142857
+Papa capira,2019-05-01,1196.5357142857142
+Papa capira,2019-06-01,1297.7241379310344
+Papa capira,2019-07-01,1212.0
+Papa capira,2019-08-01,1145.142857142857
+Papa criolla limpia,2019-01-01,2167.318181818182
+Papa criolla limpia,2019-02-01,2875.590909090909
+Papa criolla limpia,2019-03-01,3157.7272727272725
+Papa criolla limpia,2019-04-01,3182.068181818182
+Papa criolla limpia,2019-05-01,2770.159090909091
+Papa criolla limpia,2019-06-01,2855.568181818182
+Papa criolla limpia,2019-07-01,2556.3863636363635
+Papa criolla limpia,2019-08-01,2488.7045454545455
+Papa criolla sucia,2019-01-01,1321.8181818181818
+Papa criolla sucia,2019-02-01,1925.6363636363637
+Papa criolla sucia,2019-03-01,2351.5454545454545
+Papa criolla sucia,2019-04-01,2187.0
+Papa criolla sucia,2019-05-01,1969.4545454545455
+Papa criolla sucia,2019-06-01,2090.5454545454545
+Papa criolla sucia,2019-07-01,1536.3636363636363
+Papa criolla sucia,2019-08-01,1621.4545454545455
+Papa nevada,2019-01-01,1840.9
+Papa nevada,2019-02-01,1722.2
+Papa nevada,2019-03-01,1670.1
+Papa nevada,2019-04-01,1982.1
+Papa nevada,2019-05-01,2510.1
+Papa nevada,2019-06-01,1964.1
+Papa nevada,2019-07-01,2391.8888888888887
+Papa nevada,2019-08-01,3342.6666666666665
+Papa parda pastusa,2019-01-01,936.5
+Papa parda pastusa,2019-02-01,904.5185185185185
+Papa parda pastusa,2019-03-01,1067.111111111111
+Papa parda pastusa,2019-04-01,1150.3846153846155
+Papa parda pastusa,2019-05-01,1114.6923076923076
+Papa parda pastusa,2019-06-01,1224.88
+Papa parda pastusa,2019-07-01,1110.64
+Papa parda pastusa,2019-08-01,1027.5384615384614
+Papa roja peruana,2019-01-01,678.5
+Papa roja peruana,2019-02-01,580.0
+Papa roja peruana,2019-03-01,617.0
+Papa roja peruana,2019-04-01,616.5
+Papa roja peruana,2019-05-01,693.5
+Papa roja peruana,2019-06-01,875.5
+Papa roja peruana,2019-07-01,733.5
+Papa roja peruana,2019-08-01,754.5
+Papa rubí,2019-01-01,879.25
+Papa rubí,2019-02-01,840.8333333333334
+Papa rubí,2019-03-01,1041.5
+Papa rubí,2019-04-01,1153.0
+Papa rubí,2019-05-01,1074.0
+Papa rubí,2019-06-01,1128.4285714285713
+Papa rubí,2019-07-01,991.5714285714286
+Papa rubí,2019-08-01,799.1428571428571
+Papa sabanera,2019-01-01,1296.5
+Papa sabanera,2019-02-01,1300.5
+Papa sabanera,2019-03-01,1501.0
+Papa sabanera,2019-04-01,1691.0
+Papa sabanera,2019-05-01,1799.5
+Papa sabanera,2019-06-01,1724.5
+Papa sabanera,2019-07-01,1673.0
+Papa sabanera,2019-08-01,1656.0
+Papa superior,2019-01-01,908.4545454545455
+Papa superior,2019-02-01,866.7272727272727
+Papa superior,2019-03-01,1023.5
+Papa superior,2019-04-01,1136.1666666666667
+Papa superior,2019-05-01,1102.1666666666667
+Papa superior,2019-06-01,1194.9166666666667
+Papa superior,2019-07-01,1093.6666666666667
+Papa superior,2019-08-01,1002.1666666666666
+Papa suprema,2019-01-01,857.875
+Papa suprema,2019-02-01,800.5
+Papa suprema,2019-03-01,941.44
+Papa suprema,2019-04-01,997.9583333333334
+Papa suprema,2019-05-01,991.72
+Papa suprema,2019-06-01,1117.75
+Papa suprema,2019-07-01,1000.9583333333334
+Papa suprema,2019-08-01,954.2608695652174
+Papa tocarreña,2019-01-01,956.0
+Papa tocarreña,2019-02-01,1027.0
+Papa tocarreña,2019-03-01,1345.0
+Papa tocarreña,2019-04-01,1311.5
+Papa tocarreña,2019-05-01,1279.5
+Papa tocarreña,2019-06-01,1429.0
+Papa tocarreña,2019-07-01,1277.0
+Papa tocarreña,2019-08-01,1282.5
+Papa única,2019-01-01,790.6666666666666
+Papa única,2019-02-01,766.1785714285714
+Papa única,2019-03-01,934.0357142857143
+Papa única,2019-04-01,1008.8214285714286
+Papa única,2019-05-01,970.2962962962963
+Papa única,2019-06-01,1098.148148148148
+Papa única,2019-07-01,949.5555555555555
+Papa única,2019-08-01,842.1851851851852
+Papaya Maradol,2019-01-01,1402.9142857142858
+Papaya Maradol,2019-02-01,1603.942857142857
+Papaya Maradol,2019-03-01,1686.142857142857
+Papaya Maradol,2019-04-01,1479.6
+Papaya Maradol,2019-05-01,1541.9142857142858
+Papaya Maradol,2019-06-01,1632.1142857142856
+Papaya Maradol,2019-07-01,1856.2
+Papaya Maradol,2019-08-01,1942.6
+Papaya hawaiana,2019-01-01,1429.0
+Papaya hawaiana,2019-02-01,1507.0
+Papaya hawaiana,2019-03-01,1776.0
+Papaya hawaiana,2019-04-01,1641.0
+Papaya hawaiana,2019-05-01,2032.5
+Papaya hawaiana,2019-06-01,2397.0
+Papaya hawaiana,2019-07-01,2539.0
+Papaya hawaiana,2019-08-01,2670.0
+Papaya melona,2019-01-01,1103.5
+Papaya melona,2019-02-01,1002.0
+Papaya melona,2019-03-01,1150.0
+Papaya melona,2019-04-01,1199.5
+Papaya melona,2019-05-01,1289.5
+Papaya melona,2019-06-01,1301.5
+Papaya melona,2019-07-01,1374.0
+Papaya melona,2019-08-01,1506.0
+Papaya redonda,2019-01-01,1058.5
+Papaya redonda,2019-02-01,1000.0
+Papaya redonda,2019-03-01,1150.0
+Papaya redonda,2019-04-01,1109.0
+Papaya redonda,2019-05-01,1232.5
+Papaya redonda,2019-06-01,1139.5
+Papaya redonda,2019-07-01,1330.0
+Papaya redonda,2019-08-01,1376.0
+Papaya tainung,2019-01-01,1093.2727272727273
+Papaya tainung,2019-02-01,1165.5454545454545
+Papaya tainung,2019-03-01,1234.909090909091
+Papaya tainung,2019-04-01,1182.0
+Papaya tainung,2019-05-01,1308.7272727272727
+Papaya tainung,2019-06-01,1405.8
+Papaya tainung,2019-07-01,1517.4
+Papaya tainung,2019-08-01,1504.3
+Pargo rojo entero congelado,2019-01-01,20048.333333333332
+Pargo rojo entero congelado,2019-02-01,21315.0
+Pargo rojo entero congelado,2019-03-01,21446.14285714286
+Pargo rojo entero congelado,2019-04-01,21703.571428571428
+Pargo rojo entero congelado,2019-05-01,21967.571428571428
+Pargo rojo entero congelado,2019-06-01,21692.714285714286
+Pargo rojo entero congelado,2019-07-01,21103.571428571428
+Pargo rojo entero congelado,2019-08-01,20877.14285714286
+Pargo rojo entero fresco,2019-01-01,22766.666666666668
+Pargo rojo entero fresco,2019-02-01,22583.5
+Pargo rojo entero fresco,2019-03-01,23250.0
+Pargo rojo entero fresco,2019-04-01,23927.5
+Pargo rojo entero fresco,2019-05-01,23591.5
+Pargo rojo entero fresco,2019-06-01,22159.5
+Pargo rojo entero fresco,2019-07-01,21625.0
+Pargo rojo entero fresco,2019-08-01,20212.5
+Pargo rojo platero,2019-01-01,20666.5
+Pargo rojo platero,2019-02-01,20722.75
+Pargo rojo platero,2019-03-01,21362.5
+Pargo rojo platero,2019-04-01,21970.75
+Pargo rojo platero,2019-05-01,21308.75
+Pargo rojo platero,2019-06-01,21364.5
+Pargo rojo platero,2019-07-01,22120.75
+Pargo rojo platero,2019-08-01,21905.75
+Pastas alimenticias,2019-01-01,4682.029411764706
+Pastas alimenticias,2019-02-01,4699.235294117647
+Pastas alimenticias,2019-03-01,4716.457142857143
+Pastas alimenticias,2019-04-01,4722.542857142857
+Pastas alimenticias,2019-05-01,4714.085714285714
+Pastas alimenticias,2019-06-01,4703.714285714285
+Pastas alimenticias,2019-07-01,4719.142857142857
+Pastas alimenticias,2019-08-01,4716.828571428571
+Patilla,2019-01-01,911.76
+Patilla,2019-02-01,921.72
+Patilla,2019-03-01,874.52
+Patilla,2019-04-01,893.04
+Patilla,2019-05-01,966.4
+Patilla,2019-06-01,992.6
+Patilla,2019-07-01,987.84
+Patilla,2019-08-01,1023.6538461538462
+Patilla baby,2019-01-01,2484.5
+Patilla baby,2019-02-01,2800.0
+Patilla baby,2019-03-01,2410.6666666666665
+Patilla baby,2019-04-01,2052.3333333333335
+Patilla baby,2019-05-01,2013.3333333333333
+Patilla baby,2019-06-01,1964.6666666666667
+Patilla baby,2019-07-01,2559.0
+Patilla baby,2019-08-01,2243.3333333333335
+Pechuga de pollo,2019-01-01,8009.433333333333
+Pechuga de pollo,2019-02-01,7990.733333333334
+Pechuga de pollo,2019-03-01,7997.566666666667
+Pechuga de pollo,2019-04-01,7954.8
+Pechuga de pollo,2019-05-01,7958.533333333334
+Pechuga de pollo,2019-06-01,7980.233333333334
+Pechuga de pollo,2019-07-01,8003.166666666667
+Pechuga de pollo,2019-08-01,8030.8
+Pepino cohombro,2019-01-01,1613.45
+Pepino cohombro,2019-02-01,1189.025
+Pepino cohombro,2019-03-01,920.95
+Pepino cohombro,2019-04-01,807.55
+Pepino cohombro,2019-05-01,1070.925
+Pepino cohombro,2019-06-01,946.675
+Pepino cohombro,2019-07-01,965.4871794871794
+Pepino cohombro,2019-08-01,1413.475
+Pepino de rellenar,2019-01-01,1287.25
+Pepino de rellenar,2019-02-01,1351.0833333333333
+Pepino de rellenar,2019-03-01,1987.9
+Pepino de rellenar,2019-04-01,2113.2727272727275
+Pepino de rellenar,2019-05-01,1381.2727272727273
+Pepino de rellenar,2019-06-01,1326.1666666666667
+Pepino de rellenar,2019-07-01,1230.75
+Pepino de rellenar,2019-08-01,1216.0833333333333
+Pera importada,2019-01-01,5844.794117647059
+Pera importada,2019-02-01,5515.588235294118
+Pera importada,2019-03-01,4841.411764705882
+Pera importada,2019-04-01,4290.571428571428
+Pera importada,2019-05-01,4564.828571428571
+Pera importada,2019-06-01,5090.441176470588
+Pera importada,2019-07-01,5030.685714285714
+Pera importada,2019-08-01,5038.942857142857
+Pera nacional,2019-01-01,2500.0
+Pera nacional,2019-02-01,2219.5
+Pera nacional,2019-03-01,1517.2222222222222
+Pera nacional,2019-04-01,1072.2222222222222
+Pera nacional,2019-05-01,1020.0
+Pera nacional,2019-06-01,1132.7777777777778
+Pera nacional,2019-07-01,1586.375
+Pera nacional,2019-08-01,2358.0
+Perejil,2019-01-01,4767.294117647059
+Perejil,2019-02-01,3892.823529411765
+Perejil,2019-03-01,3909.823529411765
+Perejil,2019-04-01,3756.4117647058824
+Perejil,2019-05-01,3737.4117647058824
+Perejil,2019-06-01,4139.941176470588
+Perejil,2019-07-01,5144.941176470588
+Perejil,2019-08-01,4455.444444444444
+Pescado cabezas,2019-01-01,5078.857142857143
+Pescado cabezas,2019-02-01,4952.0
+Pescado cabezas,2019-03-01,4903.714285714285
+Pescado cabezas,2019-04-01,4822.428571428572
+Pescado cabezas,2019-05-01,4962.571428571428
+Pescado cabezas,2019-06-01,4851.285714285715
+Pescado cabezas,2019-07-01,4757.857142857143
+Pescado cabezas,2019-08-01,4767.142857142857
+Pierna pernil con rabadilla,2019-01-01,4768.791666666667
+Pierna pernil con rabadilla,2019-02-01,4746.416666666667
+Pierna pernil con rabadilla,2019-03-01,4744.375
+Pierna pernil con rabadilla,2019-04-01,4811.16
+Pierna pernil con rabadilla,2019-05-01,4838.0
+Pierna pernil con rabadilla,2019-06-01,4779.653846153846
+Pierna pernil con rabadilla,2019-07-01,4816.192307692308
+Pierna pernil con rabadilla,2019-08-01,4825.2692307692305
+Pierna pernil sin rabadilla,2019-01-01,6886.333333333333
+Pierna pernil sin rabadilla,2019-02-01,6883.833333333333
+Pierna pernil sin rabadilla,2019-03-01,6945.0
+Pierna pernil sin rabadilla,2019-04-01,6854.666666666667
+Pierna pernil sin rabadilla,2019-05-01,6845.666666666667
+Pierna pernil sin rabadilla,2019-06-01,6874.166666666667
+Pierna pernil sin rabadilla,2019-07-01,6903.166666666667
+Pierna pernil sin rabadilla,2019-08-01,6953.833333333333
+Piernas de pollo,2019-01-01,6585.529411764706
+Piernas de pollo,2019-02-01,6612.705882352941
+Piernas de pollo,2019-03-01,6644.470588235294
+Piernas de pollo,2019-04-01,6622.294117647059
+Piernas de pollo,2019-05-01,6576.555555555556
+Piernas de pollo,2019-06-01,6514.944444444444
+Piernas de pollo,2019-07-01,6541.555555555556
+Piernas de pollo,2019-08-01,6607.944444444444
+Pimentón,2019-01-01,1932.4
+Pimentón,2019-02-01,1606.1777777777777
+Pimentón,2019-03-01,1582.3111111111111
+Pimentón,2019-04-01,2022.7333333333333
+Pimentón,2019-05-01,1987.8222222222223
+Pimentón,2019-06-01,2163.6
+Pimentón,2019-07-01,1791.8222222222223
+Pimentón,2019-08-01,1623.7333333333333
+Pimentón verde,2019-01-01,1251.0
+Pimentón verde,2019-02-01,1413.0
+Pimentón verde,2019-03-01,1623.0
+Pimentón verde,2019-04-01,1763.5
+Pimentón verde,2019-05-01,1760.5
+Pimentón verde,2019-06-01,2029.5
+Pimentón verde,2019-07-01,1571.5
+Pimentón verde,2019-08-01,1388.0
+Pitahaya,2019-01-01,5890.4
+Pitahaya,2019-02-01,6537.333333333333
+Pitahaya,2019-03-01,5816.6
+Pitahaya,2019-04-01,5279.2
+Pitahaya,2019-05-01,5035.0
+Pitahaya,2019-06-01,4619.0
+Pitahaya,2019-07-01,4506.1
+Pitahaya,2019-08-01,4223.4
+Piña gold,2019-01-01,1530.0357142857142
+Piña gold,2019-02-01,1556.9285714285713
+Piña gold,2019-03-01,1620.0
+Piña gold,2019-04-01,1611.9642857142858
+Piña gold,2019-05-01,1459.551724137931
+Piña gold,2019-06-01,1474.5172413793102
+Piña gold,2019-07-01,1511.2413793103449
+Piña gold,2019-08-01,1809.0
+Piña manzana,2019-01-01,1391.7777777777778
+Piña manzana,2019-02-01,1439.875
+Piña manzana,2019-03-01,1520.142857142857
+Piña manzana,2019-04-01,1453.7142857142858
+Piña manzana,2019-05-01,1289.4285714285713
+Piña manzana,2019-06-01,1271.5
+Piña manzana,2019-07-01,1285.2
+Piña manzana,2019-08-01,1502.2
+Piña perolera,2019-01-01,1249.952380952381
+Piña perolera,2019-02-01,1288.2380952380952
+Piña perolera,2019-03-01,1348.2380952380952
+Piña perolera,2019-04-01,1336.047619047619
+Piña perolera,2019-05-01,1159.952380952381
+Piña perolera,2019-06-01,1164.3809523809523
+Piña perolera,2019-07-01,1263.4761904761904
+Piña perolera,2019-08-01,1436.05
+Plátano comino,2019-01-01,1065.5
+Plátano comino,2019-02-01,1021.0
+Plátano comino,2019-03-01,985.0
+Plátano comino,2019-04-01,984.5
+Plátano comino,2019-05-01,1110.5
+Plátano comino,2019-06-01,1105.0
+Plátano comino,2019-07-01,1052.5
+Plátano comino,2019-08-01,1043.5
+Plátano dominico hartón maduro,2019-01-01,965.0
+Plátano dominico hartón maduro,2019-02-01,856.0
+Plátano dominico hartón maduro,2019-03-01,1073.3333333333333
+Plátano dominico hartón maduro,2019-04-01,1360.0
+Plátano dominico hartón maduro,2019-05-01,1415.3333333333333
+Plátano dominico hartón maduro,2019-06-01,1464.3333333333333
+Plátano dominico hartón maduro,2019-07-01,1342.6666666666667
+Plátano dominico hartón maduro,2019-08-01,1233.3333333333333
+Plátano dominico hartón verde,2019-01-01,903.2
+Plátano dominico hartón verde,2019-02-01,807.0
+Plátano dominico hartón verde,2019-03-01,987.4
+Plátano dominico hartón verde,2019-04-01,1271.2
+Plátano dominico hartón verde,2019-05-01,1344.4
+Plátano dominico hartón verde,2019-06-01,1374.8
+Plátano dominico hartón verde,2019-07-01,1249.2
+Plátano dominico hartón verde,2019-08-01,1139.8
+Plátano dominico verde,2019-01-01,766.0
+Plátano dominico verde,2019-02-01,744.3333333333334
+Plátano dominico verde,2019-03-01,763.6666666666666
+Plátano dominico verde,2019-04-01,887.3333333333334
+Plátano dominico verde,2019-05-01,985.0
+Plátano dominico verde,2019-06-01,1014.3333333333334
+Plátano dominico verde,2019-07-01,860.0
+Plátano dominico verde,2019-08-01,850.3333333333334
+Plátano guineo,2019-01-01,828.7857142857143
+Plátano guineo,2019-02-01,787.5714285714286
+Plátano guineo,2019-03-01,809.8571428571429
+Plátano guineo,2019-04-01,844.1428571428571
+Plátano guineo,2019-05-01,889.9166666666666
+Plátano guineo,2019-06-01,909.5454545454545
+Plátano guineo,2019-07-01,922.0909090909091
+Plátano guineo,2019-08-01,888.1818181818181
+Plátano hartón maduro,2019-01-01,1183.888888888889
+Plátano hartón maduro,2019-02-01,1199.111111111111
+Plátano hartón maduro,2019-03-01,1470.6666666666667
+Plátano hartón maduro,2019-04-01,1560.0
+Plátano hartón maduro,2019-05-01,1661.111111111111
+Plátano hartón maduro,2019-06-01,1740.0
+Plátano hartón maduro,2019-07-01,1486.111111111111
+Plátano hartón maduro,2019-08-01,1431.1
+Plátano hartón verde,2019-01-01,1286.421052631579
+Plátano hartón verde,2019-02-01,1289.6842105263158
+Plátano hartón verde,2019-03-01,1496.0526315789473
+Plátano hartón verde,2019-04-01,1608.7027027027027
+Plátano hartón verde,2019-05-01,1709.4864864864865
+Plátano hartón verde,2019-06-01,1830.2702702702702
+Plátano hartón verde,2019-07-01,1639.439024390244
+Plátano hartón verde,2019-08-01,1630.5853658536585
+Plátano hartón verde Eje Cafetero,2019-01-01,1398.0
+Plátano hartón verde Eje Cafetero,2019-02-01,1489.0
+Plátano hartón verde Eje Cafetero,2019-03-01,1662.0
+Plátano hartón verde Eje Cafetero,2019-04-01,1818.0
+Plátano hartón verde Eje Cafetero,2019-05-01,1892.0
+Plátano hartón verde Eje Cafetero,2019-06-01,2054.0
+Plátano hartón verde Eje Cafetero,2019-07-01,1866.0
+Plátano hartón verde Eje Cafetero,2019-08-01,1840.0
+Plátano hartón verde ecuatoriano,2019-01-01,1180.5
+Plátano hartón verde ecuatoriano,2019-02-01,1179.0
+Plátano hartón verde ecuatoriano,2019-03-01,1186.8
+Plátano hartón verde ecuatoriano,2019-04-01,1212.2
+Plátano hartón verde ecuatoriano,2019-05-01,1344.8
+Plátano hartón verde ecuatoriano,2019-06-01,1507.5
+Plátano hartón verde ecuatoriano,2019-07-01,1558.75
+Plátano hartón verde ecuatoriano,2019-08-01,1617.75
+Plátano hartón verde llanero,2019-01-01,1908.0
+Plátano hartón verde llanero,2019-02-01,2109.0
+Plátano hartón verde llanero,2019-03-01,2666.5
+Plátano hartón verde llanero,2019-04-01,2289.5
+Plátano hartón verde llanero,2019-05-01,2400.0
+Plátano hartón verde llanero,2019-06-01,2478.0
+Plátano hartón verde llanero,2019-07-01,2160.5
+Plátano hartón verde llanero,2019-08-01,2187.5
+Pollo entero congelado sin vísceras,2019-01-01,5452.916666666667
+Pollo entero congelado sin vísceras,2019-02-01,5426.583333333333
+Pollo entero congelado sin vísceras,2019-03-01,5436.5
+Pollo entero congelado sin vísceras,2019-04-01,5517.333333333333
+Pollo entero congelado sin vísceras,2019-05-01,5473.666666666667
+Pollo entero congelado sin vísceras,2019-06-01,5361.363636363636
+Pollo entero congelado sin vísceras,2019-07-01,5350.272727272727
+Pollo entero congelado sin vísceras,2019-08-01,5359.454545454545
+Pollo entero fresco con vísceras,2019-01-01,5840.0
+Pollo entero fresco con vísceras,2019-02-01,5579.0
+Pollo entero fresco con vísceras,2019-03-01,5567.0
+Pollo entero fresco con vísceras,2019-04-01,5788.0
+Pollo entero fresco sin vísceras,2019-01-01,6197.785714285715
+Pollo entero fresco sin vísceras,2019-02-01,6219.642857142857
+Pollo entero fresco sin vísceras,2019-03-01,6233.714285714285
+Pollo entero fresco sin vísceras,2019-04-01,6217.071428571428
+Pollo entero fresco sin vísceras,2019-05-01,6230.428571428572
+Pollo entero fresco sin vísceras,2019-06-01,6125.857142857143
+Pollo entero fresco sin vísceras,2019-07-01,6177.214285714285
+Pollo entero fresco sin vísceras,2019-08-01,6207.571428571428
+Queso Caquetá,2019-01-01,12160.714285714286
+Queso Caquetá,2019-02-01,12152.42857142857
+Queso Caquetá,2019-03-01,12065.142857142857
+Queso Caquetá,2019-04-01,12454.57142857143
+Queso Caquetá,2019-05-01,12715.714285714286
+Queso Caquetá,2019-06-01,12392.142857142857
+Queso Caquetá,2019-07-01,12142.42857142857
+Queso Caquetá,2019-08-01,11959.57142857143
+Queso campesino,2019-01-01,9938.85
+Queso campesino,2019-02-01,10002.631578947368
+Queso campesino,2019-03-01,10091.894736842105
+Queso campesino,2019-04-01,10287.631578947368
+Queso campesino,2019-05-01,10298.684210526315
+Queso campesino,2019-06-01,10148.894736842105
+Queso campesino,2019-07-01,10142.157894736842
+Queso campesino,2019-08-01,10055.736842105263
+Queso costeño,2019-01-01,13062.73076923077
+Queso costeño,2019-02-01,12775.5
+Queso costeño,2019-03-01,12814.192307692309
+Queso costeño,2019-04-01,13571.88
+Queso costeño,2019-05-01,13029.6
+Queso costeño,2019-06-01,11727.08
+Queso costeño,2019-07-01,11463.08
+Queso costeño,2019-08-01,11254.48
+Queso cuajada,2019-01-01,8565.21052631579
+Queso cuajada,2019-02-01,8553.611111111111
+Queso cuajada,2019-03-01,8559.111111111111
+Queso cuajada,2019-04-01,8708.222222222223
+Queso cuajada,2019-05-01,8656.166666666666
+Queso cuajada,2019-06-01,8639.555555555555
+Queso cuajada,2019-07-01,8700.111111111111
+Queso cuajada,2019-08-01,8672.555555555555
+Queso doble crema,2019-01-01,11092.736842105263
+Queso doble crema,2019-02-01,11103.21052631579
+Queso doble crema,2019-03-01,11083.894736842105
+Queso doble crema,2019-04-01,11319.684210526315
+Queso doble crema,2019-05-01,11207.157894736842
+Queso doble crema,2019-06-01,10982.157894736842
+Queso doble crema,2019-07-01,10873.842105263158
+Queso doble crema,2019-08-01,10972.21052631579
+Rabadillas de pollo,2019-01-01,2328.3333333333335
+Rabadillas de pollo,2019-02-01,2412.5
+Rabadillas de pollo,2019-03-01,2412.5
+Rabadillas de pollo,2019-04-01,2387.5
+Rabadillas de pollo,2019-05-01,2515.6666666666665
+Rabadillas de pollo,2019-06-01,2312.5
+Rabadillas de pollo,2019-07-01,2325.0
+Rabadillas de pollo,2019-08-01,2344.0
+Remolacha,2019-01-01,840.0
+Remolacha,2019-02-01,964.3928571428571
+Remolacha,2019-03-01,891.8928571428571
+Remolacha,2019-04-01,930.1428571428571
+Remolacha,2019-05-01,789.7857142857143
+Remolacha,2019-06-01,721.25
+Remolacha,2019-07-01,807.5714285714286
+Remolacha,2019-08-01,927.1071428571429
+Remolacha bogotana,2019-01-01,934.4
+Remolacha bogotana,2019-02-01,1114.2
+Remolacha bogotana,2019-03-01,999.6
+Remolacha bogotana,2019-04-01,1127.6
+Remolacha bogotana,2019-05-01,961.8
+Remolacha bogotana,2019-06-01,808.4
+Remolacha bogotana,2019-07-01,897.2
+Remolacha bogotana,2019-08-01,1079.8
+Remolacha regional,2019-01-01,665.0
+Remolacha regional,2019-02-01,658.3333333333334
+Remolacha regional,2019-03-01,730.3333333333334
+Remolacha regional,2019-04-01,745.3333333333334
+Remolacha regional,2019-05-01,544.0
+Remolacha regional,2019-06-01,478.3333333333333
+Remolacha regional,2019-07-01,581.0
+Remolacha regional,2019-08-01,633.6666666666666
+Repollo blanco,2019-01-01,1357.6875
+Repollo blanco,2019-02-01,1133.84375
+Repollo blanco,2019-03-01,890.625
+Repollo blanco,2019-04-01,696.03125
+Repollo blanco,2019-05-01,550.8484848484849
+Repollo blanco,2019-06-01,499.1818181818182
+Repollo blanco,2019-07-01,628.4242424242424
+Repollo blanco,2019-08-01,804.3125
+Repollo blanco bogotano,2019-01-01,2204.5
+Repollo blanco bogotano,2019-02-01,1750.0
+Repollo blanco bogotano,2019-03-01,1319.0
+Repollo blanco bogotano,2019-04-01,948.0
+Repollo blanco bogotano,2019-05-01,683.0
+Repollo blanco bogotano,2019-06-01,569.0
+Repollo blanco bogotano,2019-07-01,641.0
+Repollo blanco bogotano,2019-08-01,1254.0
+Repollo morado,2019-01-01,1112.5
+Repollo morado,2019-02-01,1055.875
+Repollo morado,2019-03-01,945.8888888888889
+Repollo morado,2019-04-01,1055.125
+Repollo morado,2019-05-01,858.625
+Repollo morado,2019-06-01,847.5
+Repollo morado,2019-07-01,942.25
+Repollo morado,2019-08-01,973.75
+Repollo verde,2019-01-01,1052.9
+Repollo verde,2019-02-01,926.7
+Repollo verde,2019-03-01,790.7
+Repollo verde,2019-04-01,620.7
+Repollo verde,2019-05-01,469.3
+Repollo verde,2019-06-01,450.3
+Repollo verde,2019-07-01,501.0
+Repollo verde,2019-08-01,590.4
+Rábano rojo,2019-01-01,3178.3333333333335
+Rábano rojo,2019-02-01,3281.8888888888887
+Rábano rojo,2019-03-01,3652.777777777778
+Rábano rojo,2019-04-01,3078.5555555555557
+Rábano rojo,2019-05-01,3154.1111111111113
+Rábano rojo,2019-06-01,3728.0
+Rábano rojo,2019-07-01,3716.1111111111113
+Rábano rojo,2019-08-01,3215.4444444444443
+"Róbalo, filete congelado",2019-01-01,25566.5
+"Róbalo, filete congelado",2019-02-01,25733.5
+"Róbalo, filete congelado",2019-03-01,38000.0
+"Róbalo, filete congelado",2019-04-01,38000.0
+"Róbalo, filete congelado",2019-05-01,37733.0
+"Róbalo, filete congelado",2019-06-01,38808.0
+"Róbalo, filete congelado",2019-07-01,38750.0
+"Róbalo, filete congelado",2019-08-01,37367.0
+Sal yodada,2019-01-01,946.0
+Sal yodada,2019-02-01,949.5151515151515
+Sal yodada,2019-03-01,952.5454545454545
+Sal yodada,2019-04-01,958.6969696969697
+Sal yodada,2019-05-01,965.7878787878788
+Sal yodada,2019-06-01,981.3030303030303
+Sal yodada,2019-07-01,992.4545454545455
+Sal yodada,2019-08-01,1001.0909090909091
+"Salmón, filete congelado",2019-01-01,37182.375
+"Salmón, filete congelado",2019-02-01,36837.75
+"Salmón, filete congelado",2019-03-01,36793.25
+"Salmón, filete congelado",2019-04-01,36925.25
+"Salmón, filete congelado",2019-05-01,36879.125
+"Salmón, filete congelado",2019-06-01,37070.75
+"Salmón, filete congelado",2019-07-01,36900.625
+"Salmón, filete congelado",2019-08-01,36550.375
+Salsa de tomate doy pack,2019-01-01,12477.04347826087
+Salsa de tomate doy pack,2019-02-01,12415.478260869566
+Salsa de tomate doy pack,2019-03-01,12406.08695652174
+Salsa de tomate doy pack,2019-04-01,12133.708333333334
+Salsa de tomate doy pack,2019-05-01,12182.041666666666
+Salsa de tomate doy pack,2019-06-01,12035.304347826086
+Salsa de tomate doy pack,2019-07-01,11475.56
+Salsa de tomate doy pack,2019-08-01,11420.32
+Sardinas en lata,2019-01-01,8284.307692307691
+Sardinas en lata,2019-02-01,8540.307692307691
+Sardinas en lata,2019-03-01,8625.884615384615
+Sardinas en lata,2019-04-01,8667.8
+Sardinas en lata,2019-05-01,8733.84
+Sardinas en lata,2019-06-01,8739.84
+Sardinas en lata,2019-07-01,8844.88
+Sardinas en lata,2019-08-01,8894.96
+Sierra entera congelada,2019-01-01,14899.2
+Sierra entera congelada,2019-02-01,15198.7
+Sierra entera congelada,2019-03-01,15383.636363636364
+Sierra entera congelada,2019-04-01,15467.545454545454
+Sierra entera congelada,2019-05-01,15651.4
+Sierra entera congelada,2019-06-01,15614.3
+Sierra entera congelada,2019-07-01,15446.5
+Sierra entera congelada,2019-08-01,15325.0
+Sopa de pollo (caja),2019-01-01,44608.0
+Sopa de pollo (caja),2019-02-01,44215.666666666664
+Sopa de pollo (caja),2019-03-01,44179.666666666664
+Sopa de pollo (caja),2019-04-01,45118.333333333336
+Sopa de pollo (caja),2019-05-01,44474.333333333336
+Sopa de pollo (caja),2019-06-01,43377.0
+Sopa de pollo (caja),2019-07-01,43931.333333333336
+Sopa de pollo (caja),2019-08-01,44007.0
+Tangelo,2019-01-01,1893.1
+Tangelo,2019-02-01,2257.0
+Tangelo,2019-03-01,2561.8888888888887
+Tangelo,2019-04-01,2167.4
+Tangelo,2019-05-01,1768.9
+Tangelo,2019-06-01,1749.4
+Tangelo,2019-07-01,1811.0
+Tangelo,2019-08-01,2074.2727272727275
+Tilapia roja entera congelada,2019-01-01,10029.272727272728
+Tilapia roja entera congelada,2019-02-01,10374.272727272728
+Tilapia roja entera congelada,2019-03-01,10765.181818181818
+Tilapia roja entera congelada,2019-04-01,11469.363636363636
+Tilapia roja entera congelada,2019-05-01,11265.727272727272
+Tilapia roja entera congelada,2019-06-01,10996.363636363636
+Tilapia roja entera congelada,2019-07-01,10789.727272727272
+Tilapia roja entera congelada,2019-08-01,10979.545454545454
+Tilapia roja entera fresca,2019-01-01,8660.285714285714
+Tilapia roja entera fresca,2019-02-01,8754.214285714286
+Tilapia roja entera fresca,2019-03-01,8763.384615384615
+Tilapia roja entera fresca,2019-04-01,9188.23076923077
+Tilapia roja entera fresca,2019-05-01,9197.285714285714
+Tilapia roja entera fresca,2019-06-01,9419.733333333334
+Tilapia roja entera fresca,2019-07-01,9488.466666666667
+Tilapia roja entera fresca,2019-08-01,9321.4
+"Tilapia, filete congelado",2019-01-01,14348.857142857143
+"Tilapia, filete congelado",2019-02-01,14633.57142857143
+"Tilapia, filete congelado",2019-03-01,14881.857142857143
+"Tilapia, filete congelado",2019-04-01,14913.142857142857
+"Tilapia, filete congelado",2019-05-01,14686.142857142857
+"Tilapia, filete congelado",2019-06-01,14528.285714285714
+"Tilapia, filete congelado",2019-07-01,14353.57142857143
+"Tilapia, filete congelado",2019-08-01,13973.57142857143
+"Tilapia, lomitos",2019-01-01,7500.0
+"Tilapia, lomitos",2019-02-01,7542.0
+"Tilapia, lomitos",2019-03-01,7667.0
+"Tilapia, lomitos",2019-04-01,7683.0
+"Tilapia, lomitos",2019-05-01,7667.0
+"Tilapia, lomitos",2019-06-01,7225.0
+"Tilapia, lomitos",2019-07-01,6767.0
+"Tilapia, lomitos",2019-08-01,7360.0
+Tomate Riogrande,2019-01-01,1620.4285714285713
+Tomate Riogrande,2019-02-01,1047.142857142857
+Tomate Riogrande,2019-03-01,1050.857142857143
+Tomate Riogrande,2019-04-01,1526.142857142857
+Tomate Riogrande,2019-05-01,2235.25
+Tomate Riogrande,2019-06-01,2021.375
+Tomate Riogrande,2019-07-01,1914.5
+Tomate Riogrande,2019-08-01,1746.142857142857
+Tomate Riogrande bumangués,2019-01-01,1893.0
+Tomate Riogrande bumangués,2019-02-01,1491.3333333333333
+Tomate Riogrande bumangués,2019-03-01,1396.6666666666667
+Tomate Riogrande bumangués,2019-04-01,1807.6666666666667
+Tomate Riogrande bumangués,2019-05-01,2736.3333333333335
+Tomate Riogrande bumangués,2019-06-01,2709.6666666666665
+Tomate Riogrande bumangués,2019-07-01,2316.3333333333335
+Tomate Riogrande bumangués,2019-08-01,2198.3333333333335
+Tomate chonto,2019-01-01,1706.967741935484
+Tomate chonto,2019-02-01,1217.225806451613
+Tomate chonto,2019-03-01,1312.6451612903227
+Tomate chonto,2019-04-01,1677.1290322580646
+Tomate chonto,2019-05-01,2476.967741935484
+Tomate chonto,2019-06-01,2309.483870967742
+Tomate chonto,2019-07-01,2072.9032258064517
+Tomate chonto,2019-08-01,1787.6129032258063
+Tomate chonto regional,2019-01-01,1793.4444444444443
+Tomate chonto regional,2019-02-01,1175.888888888889
+Tomate chonto regional,2019-03-01,1158.6666666666667
+Tomate chonto regional,2019-04-01,1535.5555555555557
+Tomate chonto regional,2019-05-01,2330.3333333333335
+Tomate chonto regional,2019-06-01,1980.2222222222222
+Tomate chonto regional,2019-07-01,1826.7777777777778
+Tomate chonto regional,2019-08-01,1334.3333333333333
+Tomate de árbol,2019-01-01,1514.7083333333333
+Tomate de árbol,2019-02-01,1663.0416666666667
+Tomate de árbol,2019-03-01,1699.2083333333333
+Tomate de árbol,2019-04-01,1795.9375
+Tomate de árbol,2019-05-01,1863.0833333333333
+Tomate de árbol,2019-06-01,2134.7916666666665
+Tomate de árbol,2019-07-01,2249.75
+Tomate de árbol,2019-08-01,1715.7708333333333
+Tomate larga vida,2019-01-01,2195.0
+Tomate larga vida,2019-02-01,1879.5
+Tomate larga vida,2019-03-01,1994.9
+Tomate larga vida,2019-04-01,2123.8
+Tomate larga vida,2019-05-01,2647.2727272727275
+Tomate larga vida,2019-06-01,2685.4
+Tomate larga vida,2019-07-01,2702.1
+Tomate larga vida,2019-08-01,2661.7
+Tomate riñón,2019-01-01,2324.714285714286
+Tomate riñón,2019-02-01,2179.4285714285716
+Tomate riñón,2019-03-01,2254.5
+Tomate riñón,2019-04-01,2410.0
+Tomate riñón,2019-05-01,2641.285714285714
+Tomate riñón,2019-06-01,2679.5
+Tomate riñón,2019-07-01,2753.6666666666665
+Tomate riñón,2019-08-01,2548.4285714285716
+Tomate riñón valluno,2019-01-01,2724.0
+Tomate riñón valluno,2019-02-01,2793.0
+Tomate riñón valluno,2019-03-01,2724.0
+Tomate riñón valluno,2019-04-01,2848.0
+Tomate riñón valluno,2019-05-01,2812.5
+Tomate riñón valluno,2019-06-01,2881.5
+Tomate riñón valluno,2019-07-01,3133.0
+Tomate riñón valluno,2019-08-01,3036.5
+"Toyo blanco, filete congelado",2019-01-01,12493.0
+"Toyo blanco, filete congelado",2019-02-01,12597.6
+"Toyo blanco, filete congelado",2019-03-01,13114.0
+"Toyo blanco, filete congelado",2019-04-01,13824.166666666666
+"Toyo blanco, filete congelado",2019-05-01,13949.333333333334
+"Toyo blanco, filete congelado",2019-06-01,13594.166666666666
+"Toyo blanco, filete congelado",2019-07-01,13517.5
+"Toyo blanco, filete congelado",2019-08-01,13837.5
+Trucha en corte mariposa,2019-01-01,14465.363636363636
+Trucha en corte mariposa,2019-02-01,14396.545454545454
+Trucha en corte mariposa,2019-03-01,14521.727272727272
+Trucha en corte mariposa,2019-04-01,14400.727272727272
+Trucha en corte mariposa,2019-05-01,14436.727272727272
+Trucha en corte mariposa,2019-06-01,14429.272727272728
+Trucha en corte mariposa,2019-07-01,14363.636363636364
+Trucha en corte mariposa,2019-08-01,14375.181818181818
+Trucha entera fresca,2019-01-01,11500.0
+Trucha entera fresca,2019-02-01,11667.0
+Trucha entera fresca,2019-03-01,11500.0
+Trucha entera fresca,2019-04-01,12188.0
+Trucha entera fresca,2019-05-01,12000.0
+Trucha entera fresca,2019-06-01,11875.0
+Trucha entera fresca,2019-07-01,11750.0
+Trucha entera fresca,2019-08-01,11950.0
+Uchuva con cáscara,2019-01-01,2414.0
+Uchuva con cáscara,2019-02-01,2401.0
+Uchuva con cáscara,2019-03-01,2932.8333333333335
+Uchuva con cáscara,2019-04-01,3332.3333333333335
+Uchuva con cáscara,2019-05-01,2943.1666666666665
+Uchuva con cáscara,2019-06-01,2861.0
+Uchuva con cáscara,2019-07-01,2237.285714285714
+Uchuva con cáscara,2019-08-01,1905.875
+Ulluco,2019-01-01,1522.4285714285713
+Ulluco,2019-02-01,1500.857142857143
+Ulluco,2019-03-01,1383.2857142857142
+Ulluco,2019-04-01,1285.2857142857142
+Ulluco,2019-05-01,1338.4285714285713
+Ulluco,2019-06-01,1609.4285714285713
+Ulluco,2019-07-01,1662.142857142857
+Ulluco,2019-08-01,1853.7142857142858
+Uva Isabela,2019-01-01,2729.862068965517
+Uva Isabela,2019-02-01,2564.7241379310344
+Uva Isabela,2019-03-01,2570.310344827586
+Uva Isabela,2019-04-01,2458.2758620689656
+Uva Isabela,2019-05-01,2396.2413793103447
+Uva Isabela,2019-06-01,2434.448275862069
+Uva Isabela,2019-07-01,2747.137931034483
+Uva Isabela,2019-08-01,3042.896551724138
+Uva importada,2019-01-01,9632.266666666666
+Uva importada,2019-02-01,9170.8
+Uva importada,2019-03-01,9004.384615384615
+Uva importada,2019-04-01,8627.214285714286
+Uva importada,2019-05-01,8445.533333333333
+Uva importada,2019-06-01,8696.714285714286
+Uva importada,2019-07-01,9621.5
+Uva importada,2019-08-01,11775.538461538461
+Uva negra,2019-01-01,3173.0
+Uva negra,2019-02-01,2687.0
+Uva negra,2019-03-01,2660.0
+Uva negra,2019-04-01,2617.0
+Uva negra,2019-05-01,2581.0
+Uva negra,2019-06-01,2340.0
+Uva red globe nacional,2019-01-01,4411.368421052632
+Uva red globe nacional,2019-02-01,3915.9473684210525
+Uva red globe nacional,2019-03-01,3618.9473684210525
+Uva red globe nacional,2019-04-01,3398.315789473684
+Uva red globe nacional,2019-05-01,3645.2105263157896
+Uva red globe nacional,2019-06-01,3902.8947368421054
+Uva red globe nacional,2019-07-01,4949.894736842105
+Uva red globe nacional,2019-08-01,5508.888888888889
+Uva roja,2019-01-01,4476.111111111111
+Uva roja,2019-02-01,4036.777777777778
+Uva roja,2019-03-01,3707.222222222222
+Uva roja,2019-04-01,3520.3333333333335
+Uva roja,2019-05-01,3523.1111111111113
+Uva roja,2019-06-01,3871.222222222222
+Uva roja,2019-07-01,4762.333333333333
+Uva roja,2019-08-01,5294.444444444444
+Uva verde,2019-01-01,5661.272727272727
+Uva verde,2019-02-01,5214.4
+Uva verde,2019-03-01,4948.8
+Uva verde,2019-04-01,4766.5
+Uva verde,2019-05-01,4649.545454545455
+Uva verde,2019-06-01,4718.818181818182
+Uva verde,2019-07-01,5436.363636363636
+Uva verde,2019-08-01,6474.6
+Vinagre,2019-01-01,1702.4545454545455
+Vinagre,2019-02-01,1567.8181818181818
+Vinagre,2019-03-01,1567.1818181818182
+Vinagre,2019-04-01,1572.3636363636363
+Vinagre,2019-05-01,1505.0
+Vinagre,2019-06-01,1471.1818181818182
+Vinagre,2019-07-01,1727.25
+Vinagre,2019-08-01,1729.0
+Yuca ICA,2019-01-01,1570.25
+Yuca ICA,2019-02-01,1457.8666666666666
+Yuca ICA,2019-03-01,1473.1333333333334
+Yuca ICA,2019-04-01,1508.0666666666666
+Yuca ICA,2019-05-01,1526.2
+Yuca ICA,2019-06-01,1469.2666666666667
+Yuca ICA,2019-07-01,1426.6
+Yuca ICA,2019-08-01,1360.5333333333333
+Yuca chirosa,2019-01-01,1540.25
+Yuca chirosa,2019-02-01,1478.5
+Yuca chirosa,2019-03-01,1534.75
+Yuca chirosa,2019-04-01,1568.75
+Yuca chirosa,2019-05-01,1477.0
+Yuca chirosa,2019-06-01,1528.2
+Yuca chirosa,2019-07-01,1516.2
+Yuca chirosa,2019-08-01,1455.8
+Yuca criolla,2019-01-01,1132.764705882353
+Yuca criolla,2019-02-01,1082.4705882352941
+Yuca criolla,2019-03-01,1245.2941176470588
+Yuca criolla,2019-04-01,1321.6470588235295
+Yuca criolla,2019-05-01,1344.4117647058824
+Yuca criolla,2019-06-01,1323.8823529411766
+Yuca criolla,2019-07-01,1315.7058823529412
+Yuca criolla,2019-08-01,1326.5882352941176
+Yuca llanera,2019-01-01,1890.625
+Yuca llanera,2019-02-01,1719.875
+Yuca llanera,2019-03-01,1884.125
+Yuca llanera,2019-04-01,2044.875
+Yuca llanera,2019-05-01,1873.125
+Yuca llanera,2019-06-01,1687.75
+Yuca llanera,2019-07-01,1563.875
+Yuca llanera,2019-08-01,1518.125
+Zanahoria,2019-01-01,945.125
+Zanahoria,2019-02-01,1019.96875
+Zanahoria,2019-03-01,889.8125
+Zanahoria,2019-04-01,825.4375
+Zanahoria,2019-05-01,1052.25
+Zanahoria,2019-06-01,1219.5483870967741
+Zanahoria,2019-07-01,1141.59375
+Zanahoria,2019-08-01,976.34375
+Zanahoria bogotana,2019-01-01,1209.9
+Zanahoria bogotana,2019-02-01,1249.6
+Zanahoria bogotana,2019-03-01,1087.8333333333333
+Zanahoria bogotana,2019-04-01,1063.6666666666667
+Zanahoria bogotana,2019-05-01,1438.6666666666667
+Zanahoria bogotana,2019-06-01,1544.5555555555557
+Zanahoria bogotana,2019-07-01,1516.5714285714287
+Zanahoria bogotana,2019-08-01,1202.5555555555557
+Zanahoria larga vida,2019-01-01,1116.6666666666667
+Zanahoria larga vida,2019-02-01,1106.5555555555557
+Zanahoria larga vida,2019-03-01,663.5555555555555
+Zanahoria larga vida,2019-04-01,510.44444444444446
+Zanahoria larga vida,2019-05-01,549.5555555555555
+Zanahoria larga vida,2019-06-01,494.77777777777777
+Zanahoria larga vida,2019-07-01,485.0
+Zanahoria larga vida,2019-08-01,622.7777777777778
+Zapote,2019-01-01,3708.0
+Zapote,2019-02-01,4354.0
+Zapote,2019-03-01,4231.0
+Zapote,2019-04-01,2973.0
+Zapote,2019-05-01,2771.5
+Zapote,2019-06-01,2937.5
+Zapote,2019-07-01,2787.3333333333335
+Zapote,2019-08-01,2275.0
+Ñame criollo,2019-01-01,1575.5
+Ñame criollo,2019-02-01,1412.5
+Ñame criollo,2019-03-01,1485.5
+Ñame criollo,2019-04-01,1803.0
+Ñame criollo,2019-05-01,2293.4
+Ñame criollo,2019-06-01,2571.8
+Ñame criollo,2019-07-01,2913.0
+Ñame diamante,2019-01-01,833.0
+Ñame diamante,2019-02-01,765.5
+Ñame diamante,2019-03-01,857.0
+Ñame diamante,2019-04-01,1267.75
+Ñame diamante,2019-05-01,1769.0
+Ñame diamante,2019-06-01,1959.25
+Ñame diamante,2019-07-01,2842.5
+Ñame diamante,2019-08-01,3275.25
+Ñame espino,2019-01-01,1817.7142857142858
+Ñame espino,2019-02-01,1601.3333333333333
+Ñame espino,2019-03-01,1796.0
+Ñame espino,2019-04-01,2683.25
+Ñame espino,2019-05-01,3445.0
+Ñame espino,2019-06-01,4498.0
+Ñame espino,2019-07-01,4155.0
+Ñame espino,2019-08-01,3379.5714285714284
