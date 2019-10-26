@@ -1,7 +1,8 @@
 from django.shortcuts import render
-from django.http import HttpResponseRedirect
+from django.http import HttpResponseRedirect, HttpResponse
 from django.urls import reverse
 from django.contrib import messages
+from django.core import serializers
 
 
 from .forms import ProductoForm
@@ -12,10 +13,12 @@ from .logic.logic_producto import get_productos, create_producto, get_productos_
 
 def producto_list(request):
   productos = get_productos()
+  print(type(productos))
+  qs_json = serializers.serialize('json', productos)
   context = {
     'producto_list': productos
   }
-  return render(request, 'productos/producto_list.html', context)
+  return HttpResponse(qs_json, content_type='application/json')
 
 def producto_create(request):
   if request.method == 'POST':
