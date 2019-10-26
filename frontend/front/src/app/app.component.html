@@ -1,0 +1,77 @@
+<!-- <h1>
+    Angular HTTP Basics</h1>
+
+<button (click)="getPosts()">Get Posts</button>
+<div *ngFor="let post of posts | async">
+    {{post | json}}
+</div>
+<nav>
+    <a routerLink="/financiero">
+        Financiero
+    </a>
+    <a routerLink="/comprador">
+        Comprador
+    </a>
+    <a routerLink="/campesino">
+        Campesino
+    </a>
+</nav> -->
+<nav>
+    <div class="container w-100 h-100" *ngIf="isHomeRoute()">
+        <!-- <div class="row">
+            <h1>Agro Match</h1>
+        </div> -->
+        <div class="profiles row d-flex justify-content-around align-self-center w-100 h-100">
+            <div>
+                <a routerLink="/campesino">
+                    <div class="card">
+                        <img src="../assets/images/person.png" class="card-img-top" alt="Person">
+                        <div class="card-body">
+                            <h4 class="card-title text-center">Campesino</h4>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <a routerLink="/financiero">
+                <div class="card ">
+                    <img src="../assets/images/person.png" class="card-img-top" alt="Person">
+                    <div class="card-body">
+                        <h4 class="card-title text-center">Financiero</h4>
+                    </div>
+                </div>
+            </a>
+            <a routerLink="/comprador">
+                <div class="card">
+                    <img src="../assets/images/person.png" class="card-img-top" alt="Person">
+                    <div class="card-body">
+                        <h4 class="card-title text-center">Comprador</h4>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</nav>
+
+<google-chart #chart [title]="title" [type]="type" [data]="data" [columnNames]="columnNames" [options]="options" [width]="width" [height]="height">
+</google-chart>
+
+<form *ngIf="isHomeRoute()">
+
+    <div class="form-group">
+        <label for="exampleInputEmail1">Email address</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" required>
+        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputPassword1">Password</label>
+        <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password" required>
+    </div>
+    <div class="form-check">
+        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+        <label class="form-check-label" for="exampleCheck1">Check me out</label>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+<router-outlet></router-outlet>
+<!-- Router views goes here -->

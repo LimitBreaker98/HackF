@@ -1,0 +1,15 @@
+.navbar .navbar-expand-lg .navbar-dark .bg-dark {
+    background-color: rgb(23, 138, 38)!important;
+}
+
+p {
+    font-weight: bold;
+}
+
+.card {
+    margin: 40px auto;
+}
+
+google-chart {
+    margin: 0 auto;
+}
