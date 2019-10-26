@@ -11,4 +11,13 @@ def create_campesino(form):
 
 def get_campesino_by_name(name):
   return Campesino.objects.get(nombre = name)
-  
+
+def get_ofertas_campesino(name):
+  campesino = Campesino.objects.get(nombre = name)
+  ofertas = campesino.oferta_set.all()
+  return (ofertas)
+
+def get_ofertas_productos_campesino(name):
+  campesino = Campesino.objects.get(nombre = name)
+  ofertas = campesino.oferta_set.select_related('minorista').all()
+  return (ofertas)

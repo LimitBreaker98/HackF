@@ -35,7 +35,5 @@ def empresa_create(request):
 
 def ofertas_de_empresa(request, pk):
   ofertas = get_ofertas_empresa(pk)
-  context = {
-    'oferta_list': ofertas
-  }
-  return render(request, 'ofertas/oferta_list.html', context)
+  qs_json = serializers.serialize('json', ofertas)
+  return HttpResponse(qs_json, content_type='application/json')
