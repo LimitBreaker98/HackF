@@ -13,7 +13,8 @@ class ProductoForm(forms.ModelForm):
       'unidad_medida',
       'tipo',
       'fecha',
-      'campesino'
+      'campesino',
+      'oferta'
     ]
 
     labels = {
@@ -24,5 +25,6 @@ class ProductoForm(forms.ModelForm):
       'unidad_medida': 'Unidad de medida',
       'tipo': 'Tipo de producto',
       'fecha': 'Fecha',
-      'campesino': 'Campesino'
+      'campesino': 'Campesino',
+      'oferta': 'Oferta'
     }

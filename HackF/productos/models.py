@@ -1,5 +1,6 @@
 from django.db import models
 from campesinos.models import Campesino
+from ofertas.models import Oferta
 
 # Create your models here.
 class Producto(models.Model):
@@ -11,4 +12,5 @@ class Producto(models.Model):
   tipo = models.CharField(max_length=250)
   fecha = models.DateTimeField('creation_date')
   campesino = models.ForeignKey(Campesino, on_delete = models.CASCADE, null = True)
+  oferta = models.ForeignKey(Oferta, on_delete = models.CASCADE, null = True)
   

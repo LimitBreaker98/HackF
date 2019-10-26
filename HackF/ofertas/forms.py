@@ -3,17 +3,18 @@ from .models import Oferta
 
 class OfertaForm(forms.ModelForm):
     class Meta:
-        model = Oferta,
+        model = Oferta
         fields = [
             'fecha_entrega',
             'ubicacion_entrega',
-            'estado'
+            'estado',
+            'campesino',
         ]
 
         labels = {
             'fecha_entrega': 'Fecha_Entrega',
             'ubicacion_entrega': 'Ubicacion_Entrega',
-            'estado': 'Estado'
-
+            'estado': 'Estado',
+            'campesino': 'Campesino'
         }
         
