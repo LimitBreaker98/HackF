@@ -27,7 +27,7 @@ def producto_create(request):
     else:
       print(form.errors)
   else:
-    form = PurchaseForm()
+    form = ProductoForm()
   
   context = {
     'form': form,
