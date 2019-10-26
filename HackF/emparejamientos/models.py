@@ -13,5 +13,4 @@ class Emparejamiento(models.Model):
 
 
   def __str__(self):
- 
     return f"Un match con un {favorabilidad * 100}% entre el {campesino} y {empresa} ha sido encontrado: \n Las razones son:{razones}";
