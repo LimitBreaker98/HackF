@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ɵbypassSanitizationTrustResourceUrl } from '@angular/core';
 import {HttpClient} from '@angular/common/http';
 import { Router } from '@angular/router';
 
@@ -17,6 +17,17 @@ export class AppComponent {
 
   isHomeRoute() {
     return this.router.url === '/';
+  }
+
+  isChecked()
+  {
+    let email = document.getElementById("exampleInputPassword1");
+    let pass = document.getElementById("exampleInputEmail1")
+    return email == null && pass == null;
+  }
+
+  validate(){
+    return true;
   }
 
   ngOnInit(){
