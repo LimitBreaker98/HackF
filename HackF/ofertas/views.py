@@ -1,8 +1,8 @@
 from django.shortcuts import render
-from django.http import HttpResponseRedirect
+from django.http import HttpResponseRedirect, HttpResponse
 from django.urls import reverse
 from django.contrib import messages
-
+from django.core import serializers
 
 from .forms import OfertaForm
 from ofertas.models import Oferta
@@ -12,10 +12,8 @@ from .logic.logic_oferta import *
 
 def oferta_list(request):
   ofertas = get_ofertas()
-  context = {
-    'oferta_list': ofertas
-  }
-  return render(request, 'ofertas/oferta_list.html', context)
+  qs_json = serializers.serialize('json', ofertas)
+  return HttpResponse(qs_json, content_type='application/json')
 
 def oferta_create(request):
   if request.method == 'POST':

@@ -1,7 +1,8 @@
 from django.shortcuts import render
-from django.http import HttpResponseRedirect
+from django.http import HttpResponseRedirect, HttpResponse
 from django.urls import reverse
 from django.contrib import messages
+from django.core import serializers
 
 
 from .forms import CampesinoForm
@@ -12,10 +13,8 @@ from .logic.logic_campesino import get_campesinos, create_campesino
 
 def campesinos_list(request):
   campesinos = get_campesinos()
-  context = {
-    'campesinos_list': campesinos
-  }
-  return render(request, 'campesinos/campesinos_list.html', context)
+  qs_json = serializers.serialize('json', campesinos)
+  return HttpResponse(qs_json, content_type='application/json')
 
 def campesino_create(request):
   if request.method == 'POST':

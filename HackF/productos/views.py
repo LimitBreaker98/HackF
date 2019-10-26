@@ -13,11 +13,7 @@ from .logic.logic_producto import get_productos, create_producto, get_productos_
 
 def producto_list(request):
   productos = get_productos()
-  print(type(productos))
   qs_json = serializers.serialize('json', productos)
-  context = {
-    'producto_list': productos
-  }
   return HttpResponse(qs_json, content_type='application/json')
 
 def producto_create(request):
