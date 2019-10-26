@@ -74,7 +74,7 @@ class _profileCreatorState extends State<profileCreator> {
                                       maxHeight: 100, maxWidth: 300),
                                   child: TextFormField(
                                     decoration:
-                                        InputDecoration(labelText: 'Ubicacion'),
+                                        InputDecoration(labelText: 'Ubicación'),
                                   ),
                                 ),
                               ),

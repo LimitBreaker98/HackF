@@ -51,11 +51,10 @@ List<DropdownMenuItem> productos = [
   ),
 ];
 String _selectedProd;
+String _selectedmed;
+String _selectedcampe;
 
 class _AgrefarProductoState extends State<AgrefarProducto> {
-  String _selectedmed;
-  String _selectedcampe;
-
   DateTime _birthDay = new DateTime(
       DateTime.now().year - 18, DateTime.now().month, DateTime.now().day);
 
@@ -123,7 +122,7 @@ class _AgrefarProductoState extends State<AgrefarProducto> {
                                     child: Column(
                                   children: <Widget>[
                                     SizedBox(
-                                      height: 20,
+                                      height: 10,
                                     ),
                                     DropdownButtonFormField(
                                       value: _selectedProd,
@@ -141,13 +140,13 @@ class _AgrefarProductoState extends State<AgrefarProducto> {
                                     ),
                                     TextFormField(
                                       decoration: InputDecoration(
-                                          labelText: 'Ubicacion'),
+                                          labelText: 'Ubicación'),
                                     ),
                                     SizedBox(
                                       height: 30,
                                     ),
                                     DropdownButtonFormField(
-                                      value: _selectedProd,
+                                      value: _selectedmed,
                                       hint: Text('Tipo Medida'),
                                       items: tiposMedidas,
                                       onChanged: (value) {
@@ -195,12 +194,12 @@ class _AgrefarProductoState extends State<AgrefarProducto> {
                                       height: 20,
                                     ),
                                     DropdownButtonFormField(
-                                      value: _selectedProd,
-                                      hint: Text('producto'),
+                                      value: _selectedcampe,
+                                      hint: Text('Campesino'),
                                       items: campesinos,
                                       onChanged: (value) {
                                         setState(() {
-                                          _selectedProd = value;
+                                          _selectedcampe = value;
                                         });
                                       },
                                     ),

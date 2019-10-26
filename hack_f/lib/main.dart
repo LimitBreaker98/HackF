@@ -79,7 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
                               padding: EdgeInsets.symmetric(
                                   horizontal: 10, vertical: 30),
                               child: Text(
-                                'Crear un perfilamiento para el campesino, \nde esta manera es posible generar la informacion \npara poder ofrecerle contratos con los mayoristas.',
+                                'Crear un perfilamiento para el campesino, \nde esta manera es posible generar la información \npara poder ofrecerle contratos con los mayoristas.',
                                 softWrap: true,
                                 textAlign: TextAlign.left,
                                 style: Theme.of(context).textTheme.body2,
@@ -150,7 +150,7 @@ class _MyHomePageState extends State<MyHomePage> {
                               padding: EdgeInsets.symmetric(
                                   horizontal: 10, vertical: 30),
                               child: Text(
-                                'vizualizar los datos de los precios \nde los productos de forma historica que le \npueden ser de utilidad al campesino.',
+                                'Visualizar los datos de los precios \nde los productos de forma histórica que le \npueden ser de utilidad al campesino.',
                                 softWrap: true,
                                 textAlign: TextAlign.left,
                                 style: Theme.of(context).textTheme.body2,
@@ -192,7 +192,7 @@ class _MyHomePageState extends State<MyHomePage> {
                               padding: EdgeInsets.symmetric(
                                   horizontal: 10, vertical: 30),
                               child: Text(
-                                'vizualizar los datos de los contratos \nque empareja el campesino con la empresa \nminoritaria.',
+                                'visualizar los datos de los contratos \nque empareja el campesino con la empresa \nminoritaria.',
                                 softWrap: true,
                                 textAlign: TextAlign.left,
                                 style: Theme.of(context).textTheme.body2,

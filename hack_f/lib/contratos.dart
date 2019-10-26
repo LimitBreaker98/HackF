@@ -23,72 +23,77 @@ class _contratosState extends State<contratos> {
         appBar: AppBar(
           title: Text("Contratos"),
         ),
-        body: Container(
-          child: Column(
-            children: <Widget>[
-              Hero(
-                tag: 'trabajo',
-                child: Column(
-                  children: <Widget>[
-                    Icon(
-                      Icons.work,
-                      size: 100,
-                      color: Theme.of(context).secondaryHeaderColor,
-                    ),
-                    Text(
-                      'Ver contratos',
-                      style: Theme.of(context).textTheme.headline,
-                      textAlign: TextAlign.center,
-                    ),
-                  ],
-                ),
-              ),
-              Text('Usuario'),
-              Padding(
-                padding: const EdgeInsets.all(8.0),
-                child: ConstrainedBox(
-                    constraints: BoxConstraints(maxHeight: 100, maxWidth: 300),
-                    child: DropdownButtonFormField(
-                      value: _selected,
-                      items: ['hello1', 'hello2']
-                          .map((label) => DropdownMenuItem(
-                                child: Text(label),
-                                value: label,
-                              ))
-                          .toList(),
-                      onChanged: (value) {
-                        setState(() => _selected = value);
-                      },
-                    )),
-              ),
-              Expanded(
-                child: SizedBox(
-                  height: 400,
-                  child: GridView.count(
+        body: Center(
+          child: Container(
+            child: Column(
+              children: <Widget>[
+                Hero(
+                  tag: 'trabajo',
+                  child: Column(
                     children: <Widget>[
-                      MatchWidget('empresa', 'oferta', 'papas',
-                          ['Ectarias', 'cercania', 'calidad']),
-                      MatchWidget('empresa', 'oferta', 'papas',
-                          ['Ectarias', 'cercania', 'calidad']),
-                      MatchWidget('empresa', 'oferta', 'papas',
-                          ['Ectarias', 'cercania', 'calidad']),
-                      MatchWidget('empresa', 'oferta', 'papas',
-                          ['Ectarias', 'cercania', 'calidad']),
+                      Icon(
+                        Icons.work,
+                        size: 100,
+                        color: Theme.of(context).secondaryHeaderColor,
+                      ),
+                      Text(
+                        'Ver contratos',
+                        style: Theme.of(context).textTheme.headline,
+                        textAlign: TextAlign.center,
+                      ),
                     ],
-                    crossAxisCount: 3,
                   ),
                 ),
-              ),
-            ],
+                Text('Usuario'),
+                Padding(
+                  padding: const EdgeInsets.all(8.0),
+                  child: ConstrainedBox(
+                      constraints:
+                          BoxConstraints(maxHeight: 100, maxWidth: 300),
+                      child: DropdownButtonFormField(
+                        value: _selected,
+                        items: ['Pepito', 'Juanita']
+                            .map((label) => DropdownMenuItem(
+                                  child: Text(label),
+                                  value: label,
+                                ))
+                            .toList(),
+                        onChanged: (value) {
+                          setState(() => _selected = value);
+                        },
+                      )),
+                ),
+                Expanded(
+                  child: SizedBox(
+                    height: 400,
+                    child: _selected != null
+                        ? GridView.count(
+                            children: <Widget>[
+                              MatchWidget('empresa Agro', '13400', 'Ajo',
+                                  ['Hectareas', 'cercania', 'calidad']),
+                              MatchWidget('Olimpica ', '12500', 'Apio',
+                                  ['cercanía', 'calidad']),
+                              MatchWidget('Alpina', '15000', 'Leche',
+                                  ['Hectareas', 'calidad']),
+                              MatchWidget('empresa', 'oferta', 'papas',
+                                  ['cercanía', 'calidad']),
+                            ],
+                            crossAxisCount: 3,
+                          )
+                        : Text("Seleccione un usuario"),
+                  ),
+                ),
+              ],
+            ),
           ),
         ));
   }
 
   void getCampesinos() async {
-    var response = await http.get('http://157.253.227.85:8000/campesinos');
-    var jsonResponse = convert.jsonDecode(response.body);
-
-    print(jsonResponse);
+    var response = await http.get('http://157.253.227.84:8000/campesinos');
+    Map<String, dynamic> user = convert.jsonDecode(response.body);
+    print(user);
+    print(user['fields']);
   }
 }
 
