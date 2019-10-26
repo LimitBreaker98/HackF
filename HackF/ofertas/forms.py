@@ -9,12 +9,14 @@ class OfertaForm(forms.ModelForm):
             'ubicacion_entrega',
             'estado',
             'campesino',
+            'minorista'
         ]
 
         labels = {
             'fecha_entrega': 'Fecha_Entrega',
             'ubicacion_entrega': 'Ubicacion_Entrega',
             'estado': 'Estado',
-            'campesino': 'Campesino'
+            'campesino': 'Campesino',
+            'minorista': 'Empresa minorista'
         }
         
