@@ -4,7 +4,7 @@
 <thead>
     <tr>
     <th>Nombre</th>
-    <th>Ubicación/th>
+    <th>Ubicación</th>
     </tr>
 </thead>
 <tbody>
@@ -12,9 +12,6 @@
     <tr>
     <td>{{ campesino.nombre }}</td>
     <td>{{ campesino.ubicacion}}</td>
-    <td><a href="{% url "purchase_view" purchase.id %}">view</a></td>
-    <td><a href="{% url "purchase_edit" purchase.id %}">edit</a></td>
-    <td><a href="{% url "purchase_delete" purchase.id %}">delete</a></td>
     </tr>
     {% endfor %}
 </tbody>

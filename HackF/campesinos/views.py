@@ -13,7 +13,7 @@ from .logic.logic_campesino import get_campesinos, create_campesino
 def campesinos_list(request):
   campesinos = get_campesinos()
   context = {
-    'campesinos_list': productos
+    'campesinos_list': campesinos
   }
   return render(request, 'campesinos/campesinos_list.html', context)
 

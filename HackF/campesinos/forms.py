@@ -3,7 +3,7 @@ from .models import Campesino
 
 class CampesinoForm(forms.ModelForm):
   class Meta:
-    model = Campesino,
+    model = Campesino
     fields = [
       'nombre',
       'ubicacion',
