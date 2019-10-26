@@ -22,9 +22,6 @@
     <td>{{ producto.unidad_medida }}</td>
     <td>{{ producto.tipo }}</td>
     <td>{{ producto.fecha }}</td>
-    <td><a href="{% url "purchase_view" purchase.id %}">view</a></td>
-    <td><a href="{% url "purchase_edit" purchase.id %}">edit</a></td>
-    <td><a href="{% url "purchase_delete" purchase.id %}">delete</a></td>
     </tr>
     {% endfor %}
 </tbody>
