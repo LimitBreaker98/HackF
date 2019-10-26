@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'campesinos.apps.CampesinosConfig'
+    'campesinos.apps.CampesinosConfig',
+    'ofertas.apps.'
 ]
 
 MIDDLEWARE = [
