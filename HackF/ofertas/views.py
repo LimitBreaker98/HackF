@@ -3,12 +3,25 @@ from django.http import HttpResponseRedirect, HttpResponse
 from django.urls import reverse
 from django.contrib import messages
 from django.core import serializers
+from django.views.generic.edit import UpdateView, DeleteView
+from django.urls import reverse_lazy
 
 from .forms import OfertaForm
 from ofertas.models import Oferta
 from .logic.logic_oferta import *
 
 # Create your views here.
+
+class OfertaUpdate(UpdateView):
+  model = Oferta
+  fields = [
+    'fecha_entrega',
+    'ubicacion_entrega',
+    'estado',
+    'campesino',
+    'minorista'
+  ]
+  success_url = reverse_lazy('oferta_list')
 
 def oferta_list(request):
   ofertas = get_ofertas()

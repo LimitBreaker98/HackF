@@ -3,13 +3,29 @@ from django.http import HttpResponseRedirect, HttpResponse
 from django.urls import reverse
 from django.contrib import messages
 from django.core import serializers
-
+from django.views.generic.edit import UpdateView, DeleteView
+from django.urls import reverse_lazy
 
 from .forms import ProductoForm
 from productos.models import Producto
 from .logic.logic_producto import get_productos, create_producto, get_productos_campesino
 
 # Create your views here.
+
+class ProductoUpdate(UpdateView):
+  model = Producto
+  fields = [
+      'nombre',
+      'descripcion',
+      'precio',
+      'ubicacion',
+      'unidad_medida',
+      'tipo',
+      'fecha',
+      'campesino',
+      'oferta'
+  ]
+  success_url = reverse_lazy('producto_list')
 
 def producto_list(request):
   productos = get_productos()
