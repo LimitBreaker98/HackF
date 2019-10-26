@@ -1,0 +1,24 @@
+<h1>Productos</h1>
+
+<table border="1">
+<thead>
+    <tr>
+    <th>Nombre</th>
+    <th>E-Mail</th>
+    <th>Teléfono</th>
+    <th>Ubicación</th>
+    </tr>
+</thead>
+<tbody>
+    {% for empresa in empresa_list %}
+    <tr>
+    <td>{{ producto.nombre }}</td>
+    <td>{{ producto.email }}</td>
+    <td>{{ producto.telefono }}</td>
+    <td>{{ producto.ubicacion }}</td>
+    </tr>
+    {% endfor %}
+</tbody>
+</table>
+
+<a href="{% url "empresa_new" %}">New</a>
