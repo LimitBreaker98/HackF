@@ -1,6 +1,6 @@
 from ..models import Emparejamiento
 from ofertas.models import Oferta
-
+from ofertas.logic.logic_oferta import get_productos_oferta
 
 def get_emparejamientos():
   queryset = Emparejamiento.objects.all()[:10]
@@ -43,4 +43,4 @@ def matching(oferta, producto):
   #campesino
   #oferta
 
-  return oferta.abs(oferta.fecha_entrega - producto.fecha)
+  return producto in get_productos_oferta(oferta.pk)/(oferta.abs(oferta.fecha_entrega - producto.fecha)/7)
