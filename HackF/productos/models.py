@@ -1,4 +1,5 @@
 from django.db import models
+from campesinos.models import Campesino
 
 # Create your models here.
 class Producto(models.Model):
@@ -9,4 +10,5 @@ class Producto(models.Model):
   unidad_medida = models.CharField(max_length=50)
   tipo = models.CharField(max_length=250)
   fecha = models.DateTimeField('creation_date')
+  campesino = models.ForeignKey(Campesino, on_delete = models.CASCADE, null = True)
   
