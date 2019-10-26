@@ -11,7 +11,7 @@ def create_empresa(form):
   empresa.save()
   return ()
 
-def get_ofertas_empresa(name):
-  empresa = Empresa.objects.get(nombre = name)
+def get_ofertas_empresa(pk):
+  empresa = Empresa.objects.get(id = pk)
   ofertas = empresa.oferta_set.all()
   return (ofertas)

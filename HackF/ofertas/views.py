@@ -32,9 +32,9 @@ def oferta_create(request):
   }
   return render(request, 'ofertas/oferta_form.html', context)
 
-def productos_de_oferta(request, id):
-  oferta = get_productos_oferta(id)
+def productos_de_oferta(request, pk):
+  productos = get_productos_oferta(pk)
   context = {
-    'oferta_list': oferta
+    'producto_list': productos
   }
-  return render(request, 'ofertas/oferta_list.html', context)
+  return render(request, 'productos/producto_list.html', context)

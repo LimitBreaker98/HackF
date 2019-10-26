@@ -11,6 +11,3 @@ class Oferta(models.Model):
     estado = models.CharField(max_length = 20)
     minorista = models.ForeignKey(Empresa, on_delete = models.CASCADE, null = True) 
     campesino = models.ForeignKey(Campesino, on_delete = models.CASCADE, null = True)
-
-    def __str__(self):
-        return self.nombre
