@@ -1,0 +1,24 @@
+<h1>Ofertas</h1>
+
+<table border="1">
+<thead>
+    <tr>
+    <th>Fecha Entrega</th>
+    <th>Ubicación Entrega</th>
+    <th>Estado</th>
+    <th>Campesino</th>
+    </tr>
+</thead>
+<tbody>
+    {% for oferta in oferta_list %}
+    <tr>
+    <td>{{ oferta.fecha_entrega }}</td>
+    <td>{{ oferta.ubicacion_entrega }}</td>
+    <td>{{ oferta.estado }}</td>
+    <td>{{ oferta.campesino.nombre }}</td>
+    </tr>
+    {% endfor %}
+</tbody>
+</table>
+
+<a href="{% url "oferta_new" %}">New</a>

@@ -1,0 +1,20 @@
+<h1>Campesinos</h1>
+
+<table border="1">
+<thead>
+    <tr>
+    <th>Nombre</th>
+    <th>Ubicación</th>
+    </tr>
+</thead>
+<tbody>
+    {% for campesino in campesinos_list %}
+    <tr>
+    <td>{{ campesino.nombre }}</td>
+    <td>{{ campesino.ubicacion}}</td>
+    </tr>
+    {% endfor %}
+</tbody>
+</table>
+
+<a href="{% url "campesino_new" %}">New</a>
