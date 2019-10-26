@@ -33,9 +33,9 @@ def empresa_create(request):
   }
   return render(request, 'empresas/empresa_form.html', context)
 
-def ofertas_de_empresa(request, name):
-  empresas = get_ofertas_empresa(name)
+def ofertas_de_empresa(request, pk):
+  ofertas = get_ofertas_empresa(pk)
   context = {
-    'empresa_list': empresas
+    'oferta_list': ofertas
   }
-  return render(request, 'empresas/empresa_list.html', context)
+  return render(request, 'ofertas/oferta_list.html', context)
